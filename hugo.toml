@@ -1,0 +1,41 @@
+baseURL = 'https://aurifinance.com.au/'
+languageCode = 'en-AU'
+title = 'Auri Finance'
+
+[params]
+  description = 'Empowering individuals on their financial journey, we are committed to making lending simple. Through personalised service and streamlined solutions, we aim to guide our clients towards financial success with ease and clarity.'
+  phone = '08 7093 4174'
+  email = 'contact@aurifinance.com.au'
+  address = '51 George Street, Thebarton SA 5031'
+  abn = 'Auri Finance Pty Ltd ABN 38 672 981 627 is a credit representative 555514 of BLSSA Pty Ltd ACN 117 651 760 Australian Credit Licence 391237.'
+
+[params.social]
+  instagram = 'https://instagram.com/aurifinance'
+  facebook = 'https://www.facebook.com/aurifinance'
+  linkedin = 'https://www.linkedin.com/company/aurifinance'
+
+[pagination]
+  pagerSize = 9
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = 'Services'
+    url = '/#services'
+    weight = 1
+  [[menu.main]]
+    name = 'Process'
+    url = '/#process'
+    weight = 2
+  [[menu.main]]
+    name = 'Articles'
+    url = '/posts/'
+    weight = 3
+  [[menu.main]]
+    name = 'About'
+    url = '/#about'
+    weight = 4

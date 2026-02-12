@@ -1,0 +1,185 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero" id="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1>Find Your Perfect Loan, Fast.</h1>
+      <p class="hero-subtitle">Dream home or better rates, we make it happen. Personalised options, lowest rates, hassle-free.</p>
+      <div class="hero-actions">
+        <a href="#contact" class="btn btn-primary">Book a Call</a>
+        <a href="#services" class="btn btn-secondary">Our Services</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="{{ "images/hero-home.webp" | relURL }}" alt="Happy homeowners with keys to their new home" loading="eager">
+    </div>
+  </div>
+</section>
+
+<!-- Services Section -->
+<section class="services" id="services">
+  <div class="container">
+    <h2>How can we help?</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <h3>Refinance</h3>
+        <p>Consider refinancing your home for potential savings on interest rates and monthly payments.</p>
+        <a href="#contact" class="service-link">Learn more &rarr;</a>
+      </div>
+      <div class="service-card">
+        <h3>Purchase</h3>
+        <p>Considering a new property? Let's discuss our home loan options tailored to your needs.</p>
+        <a href="#contact" class="service-link">Learn more &rarr;</a>
+      </div>
+      <div class="service-card">
+        <h3>Personal Loan</h3>
+        <p>We offer a range of personal loan options to suit your needs, with competitive rates and flexible terms.</p>
+        <a href="#contact" class="service-link">Learn more &rarr;</a>
+      </div>
+      <div class="service-card">
+        <h3>Commercial Loan</h3>
+        <p>Tailored commercial loan solutions to help businesses achieve their financial goals with competitive rates.</p>
+        <a href="#contact" class="service-link">Learn more &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Process Section -->
+<section class="process" id="process">
+  <div class="container">
+    <h2>What's the process?</h2>
+    <div class="process-grid">
+      <div class="process-step">
+        <div class="step-number">1</div>
+        <div class="step-content">
+          <h3>Initial Consultation</h3>
+          <p>No matter what your mortgage requirements are, we're here to assist you. Begin by discussing the details of your needs with us. Schedule a consultation call to kick-start the process.</p>
+          <a href="#contact" class="btn btn-primary">Book a Call</a>
+        </div>
+      </div>
+      <div class="process-step">
+        <div class="step-number">2</div>
+        <div class="step-content">
+          <h3>Tailored Research</h3>
+          <p>After understanding your unique situation, we'll dive into the research, comparing various lenders to unearth the best loan options and rates for you.</p>
+          <a href="#lenders" class="btn btn-secondary">View Our Lenders</a>
+        </div>
+      </div>
+      <div class="process-step">
+        <div class="step-number">3</div>
+        <div class="step-content">
+          <h3>Application & Approval</h3>
+          <p>We handle the paperwork and liaise with lenders on your behalf, making the application process as smooth and stress-free as possible.</p>
+        </div>
+      </div>
+      <div class="process-step">
+        <div class="step-number">4</div>
+        <div class="step-content">
+          <h3>Settlement & Beyond</h3>
+          <p>We'll guide you through to settlement and continue to support you with ongoing reviews to ensure your loan remains competitive.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Lenders Section -->
+<section class="lenders" id="lenders">
+  <div class="container">
+    <h2>Over 40 lenders to choose from</h2>
+    <div class="lenders-grid">
+      <div class="lender-logo"><img src="{{ "images/lenders/commbank.webp" | relURL }}" alt="CommBank" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/anz.webp" | relURL }}" alt="ANZ" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/westpac.webp" | relURL }}" alt="Westpac" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/nab.webp" | relURL }}" alt="NAB" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/macquarie.webp" | relURL }}" alt="Macquarie" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/ing.webp" | relURL }}" alt="ING" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/bankwest.webp" | relURL }}" alt="Bankwest" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/suncorp.webp" | relURL }}" alt="Suncorp" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/amp.webp" | relURL }}" alt="AMP" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/boq.webp" | relURL }}" alt="Bank of Queensland" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/ubank.webp" | relURL }}" alt="ubank" loading="lazy"></div>
+      <div class="lender-logo"><img src="{{ "images/lenders/me.webp" | relURL }}" alt="ME Bank" loading="lazy"></div>
+    </div>
+  </div>
+</section>
+
+<!-- Articles Section -->
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ if $posts }}
+<section class="articles" id="articles">
+  <div class="container">
+    <div class="section-header">
+      <h2>Latest Articles</h2>
+      <a href="{{ "posts/" | relURL }}" class="btn btn-secondary">View All</a>
+    </div>
+    <div class="articles-grid">
+      {{ range first 3 $posts }}
+      <article class="article-card">
+        {{ with .Params.image }}
+        <div class="article-image">
+          <a href="{{ $.Permalink }}">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+          </a>
+        </div>
+        {{ end }}
+        <div class="article-content">
+          <div class="article-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+            {{ range .Params.tags }}
+            <span class="tag">{{ . }}</span>
+            {{ end }}
+          </div>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Description }}</p>
+          <a href="{{ .Permalink }}" class="article-link">Read more &rarr;</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- About Section -->
+<section class="about" id="about">
+  <div class="container">
+    <div class="about-content">
+      <h2>Why Choose Auri Finance?</h2>
+      <p>Empowering individuals on their financial journey, we are committed to making lending simple. Through personalised service and streamlined solutions, we aim to guide our clients &mdash; new buyers, homeowners, investors, and business owners &mdash; towards financial success with ease and clarity.</p>
+      <div class="about-stats">
+        <div class="stat">
+          <span class="stat-number">40+</span>
+          <span class="stat-label">Lender Partners</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">5.0</span>
+          <span class="stat-label">Google Rating</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">100%</span>
+          <span class="stat-label">Free Service</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact / CTA Section -->
+<section class="contact" id="contact">
+  <div class="container">
+    <div class="cta-box">
+      <h2>Ready to get started?</h2>
+      <p>Book a free consultation call and let's find the perfect loan for you.</p>
+      <div class="cta-actions">
+        <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary">Call {{ .Site.Params.phone }}</a>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-secondary">Email Us</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

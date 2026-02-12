@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body>
+  {{- partial "header.html" . -}}
+  <main id="page">
+    {{- block "main" . }}{{- end }}
+  </main>
+  {{- partial "footer.html" . -}}
+  <script>
+    // Mobile menu toggle
+    const burger = document.querySelector('.header-burger-btn');
+    const mobileMenu = document.querySelector('.mobile-menu');
+    if (burger && mobileMenu) {
+      burger.addEventListener('click', () => {
+        mobileMenu.classList.toggle('active');
+        burger.classList.toggle('active');
+      });
+    }
+
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="/#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        const targetId = this.getAttribute('href').replace('/', '');
+        const target = document.querySelector(targetId);
+        if (target) {
+          e.preventDefault();
+          target.scrollIntoView({ behavior: 'smooth' });
+          if (mobileMenu) mobileMenu.classList.remove('active');
+          if (burger) burger.classList.remove('active');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
