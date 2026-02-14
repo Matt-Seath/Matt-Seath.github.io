@@ -37,5 +37,5 @@ title = 'Auri Finance'
     weight = 3
   [[menu.main]]
     name = 'Articles'
-    url = '/posts/'
+    url = '/articles/'
     weight = 4
