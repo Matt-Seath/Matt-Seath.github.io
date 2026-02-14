@@ -24,18 +24,18 @@ title = 'Auri Finance'
 
 [menu]
   [[menu.main]]
+    name = 'About'
+    url = '/#about'
+    weight = 1
+  [[menu.main]]
     name = 'Services'
     url = '/#services'
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = 'Process'
     url = '/#process'
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = 'Articles'
     url = '/posts/'
-    weight = 3
-  [[menu.main]]
-    name = 'About'
-    url = '/#about'
     weight = 4
