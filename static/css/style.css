@@ -146,6 +146,11 @@ h4 { font-size: 1.1rem; }
   gap: 8px;
 }
 
+.logo-img {
+  height: 52px;
+  width: auto;
+}
+
 .logo-text {
   font-size: 1.4rem;
   font-weight: 800;
@@ -890,18 +895,34 @@ h4 { font-size: 1.1rem; }
   margin: 0 auto;
   padding: 0 4vw;
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 40px;
+  justify-items: start;
 }
 
 .footer-logo .logo-text {
   font-size: 1.3rem;
 }
 
+.footer-brand {
+  text-align: left;
+}
+
+.footer-logo {
+  margin-bottom: 1rem;
+}
+
+.footer-logo .logo-img {
+  height: 52px;
+  width: auto;
+  max-width: none;
+  margin: 0;
+}
+
 .footer-social {
   display: flex;
   gap: 12px;
-  margin-top: 1rem;
+  padding-left: 20px;
 }
 
 .footer-social a {
