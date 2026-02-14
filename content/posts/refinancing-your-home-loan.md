@@ -3,7 +3,7 @@ title: 'When Should You Refinance Your Home Loan?'
 date: 2026-02-05
 draft: false
 description: 'Refinancing could save you thousands. Learn when it makes sense to switch lenders and how the process works.'
-tags: ['Refinance', 'Home Loans']
+tags: ['Growing My Portfolio']
 image: '/images/posts/refinancing.webp'
 ---
 

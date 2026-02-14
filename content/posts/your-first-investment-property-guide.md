@@ -3,7 +3,7 @@ title: 'First Home Buyer Guide: Everything You Need to Know'
 date: 2026-02-10
 draft: false
 description: 'Buying your first home is exciting but can be overwhelming. This guide walks you through every step of the process.'
-tags: ['Home Loans', 'First Home Buyer']
+tags: ['First Home', 'First Investment']
 image: '/images/posts/first-home-buyer.webp'
 ---
 

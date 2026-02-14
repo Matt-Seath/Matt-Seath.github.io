@@ -8,9 +8,22 @@
 
 <section class="articles-list">
   <div class="container">
-    <div class="articles-grid">
-      {{ range .Paginator.Pages }}
-      <article class="article-card">
+    <div class="filter-bar">
+      <input type="text" class="search-input" id="article-search" placeholder="Search articles..." aria-label="Search articles">
+      <div class="filter-pills" role="radiogroup" aria-label="Filter by category">
+        <button class="filter-pill active" data-filter="all" type="button" aria-pressed="true">All</button>
+        <button class="filter-pill" data-filter="first home" type="button" aria-pressed="false">First Home</button>
+        <button class="filter-pill" data-filter="first investment" type="button" aria-pressed="false">First Investment</button>
+        <button class="filter-pill" data-filter="portfolio" type="button" aria-pressed="false">Growing My Portfolio</button>
+        <button class="filter-pill" data-filter="smsf" type="button" aria-pressed="false">SMSF</button>
+        <button class="filter-pill" data-filter="business" type="button" aria-pressed="false">Business Income</button>
+        <button class="filter-pill" data-filter="trust" type="button" aria-pressed="false">Trust</button>
+      </div>
+    </div>
+
+    <div class="articles-grid" id="articles-grid">
+      {{ range .Pages }}
+      <article class="article-card" data-tags="{{ with .Params.tags }}{{ delimit . "," | lower }}{{ end }}">
         {{ with .Params.image }}
         <div class="article-image">
           <a href="{{ $.Permalink }}">
@@ -33,18 +46,56 @@
       {{ end }}
     </div>
 
-    {{ $paginator := .Paginator }}
-    {{ if gt $paginator.TotalPages 1 }}
-    <nav class="pagination">
-      {{ if $paginator.HasPrev }}
-      <a href="{{ $paginator.Prev.URL }}" class="btn btn-secondary">&larr; Newer</a>
-      {{ end }}
-      <span class="page-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
-      {{ if $paginator.HasNext }}
-      <a href="{{ $paginator.Next.URL }}" class="btn btn-secondary">Older &rarr;</a>
-      {{ end }}
-    </nav>
-    {{ end }}
+    <p class="no-results" id="no-results" style="display: none;">No articles match your search.</p>
   </div>
 </section>
+
+<script>
+(function() {
+  const searchInput = document.getElementById('article-search');
+  const grid = document.getElementById('articles-grid');
+  const cards = grid.querySelectorAll('.article-card');
+  const pills = document.querySelectorAll('.filter-pill');
+  const noResults = document.getElementById('no-results');
+  let activeFilter = 'all';
+
+  function filterCards() {
+    const query = searchInput.value.toLowerCase().trim();
+    let visibleCount = 0;
+
+    for (const card of cards) {
+      const tags = card.getAttribute('data-tags') || '';
+      const title = card.querySelector('h3') ? card.querySelector('h3').textContent.toLowerCase() : '';
+      const desc = card.querySelector('.article-content p') ? card.querySelector('.article-content p').textContent.toLowerCase() : '';
+
+      const matchesCategory = activeFilter === 'all' || tags.includes(activeFilter);
+      const matchesSearch = !query || title.includes(query) || desc.includes(query);
+
+      if (matchesCategory && matchesSearch) {
+        card.classList.remove('hidden');
+        visibleCount++;
+      } else {
+        card.classList.add('hidden');
+      }
+    }
+
+    noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+  }
+
+  for (const pill of pills) {
+    pill.addEventListener('click', function() {
+      for (const p of pills) {
+        p.classList.remove('active');
+        p.setAttribute('aria-pressed', 'false');
+      }
+      this.classList.add('active');
+      this.setAttribute('aria-pressed', 'true');
+      activeFilter = this.getAttribute('data-filter');
+      filterCards();
+    });
+  }
+
+  searchInput.addEventListener('input', filterCards);
+})();
+</script>
 {{ end }}

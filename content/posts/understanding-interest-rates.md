@@ -3,7 +3,7 @@ title: 'Understanding Interest Rates: How They Affect Your Home Loan'
 date: 2026-01-28
 draft: false
 description: 'Interest rates play a huge role in your mortgage. Learn how they work, what influences them, and how to get the best rate.'
-tags: ['Interest Rates', 'Education']
+tags: ['First Home', 'First Investment', 'Growing My Portfolio']
 image: '/images/posts/interest-rates.webp'
 ---
 
