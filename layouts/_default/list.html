@@ -23,11 +23,13 @@
 
     <div class="articles-grid" id="articles-grid">
       {{ range .Pages }}
+      {{ $pageLink := .Permalink }}
+      {{ $pageTitle := .Title }}
       <article class="article-card" data-tags="{{ with .Params.tags }}{{ delimit . "," | lower }}{{ end }}">
         {{ with .Params.image }}
         <div class="article-image">
-          <a href="{{ $.Permalink }}">
-            <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+          <a href="{{ $pageLink }}">
+            <img src="{{ . | relURL }}" alt="{{ $pageTitle }}" loading="lazy">
           </a>
         </div>
         {{ end }}
