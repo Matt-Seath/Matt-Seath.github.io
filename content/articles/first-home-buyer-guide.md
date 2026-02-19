@@ -4,7 +4,7 @@ date: 2026-02-10
 draft: false
 description: 'Buying your first home is exciting but can be overwhelming. This guide walks you through every step of the process.'
 tags: ['First Home']
-image: '/images/posts/first-home-buyer.webp'
+image: '/images/posts/_what-to-know-before-buying-property-in-melbourne-suburbs-wfxuxyfkkhmd.jpg'
 ---
 
 Purchasing your first home is one of the most significant financial decisions you'll ever make. Whether you're just starting to think about it or you're ready to start inspecting properties, this guide will help you understand the key steps involved.

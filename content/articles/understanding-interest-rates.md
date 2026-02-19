@@ -4,7 +4,7 @@ date: 2026-01-28
 draft: false
 description: 'Interest rates play a huge role in your mortgage. Learn how they work, what influences them, and how to get the best rate.'
 tags: ['First Home', 'First Investment', 'Growing My Portfolio']
-image: '/images/posts/interest-rates.webp'
+image: '/images/posts/_Photo-1_December-Blog-QLD-vs-Perth-Property-Investing.jpg'
 ---
 
 Interest rates are one of the most important factors in your home loan. Even a small difference in rate can mean tens of thousands of dollars over the life of your loan. Understanding how they work can help you make smarter borrowing decisions.

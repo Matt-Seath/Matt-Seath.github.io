@@ -4,7 +4,7 @@ date: 2026-02-05
 draft: false
 description: 'Refinancing could save you thousands. Learn when it makes sense to switch lenders and how the process works.'
 tags: ['Growing My Portfolio']
-image: '/images/posts/refinancing.webp'
+image: '/images/posts/_Translating-Your-Property-Documents.jpg'
 ---
 
 If you've had your home loan for a few years, there's a good chance you're paying more than you need to. Refinancing — switching your loan to a new lender or renegotiating with your current one — can potentially save you thousands of dollars.
