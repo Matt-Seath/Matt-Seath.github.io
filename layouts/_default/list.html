@@ -1,6 +1,6 @@
 {{ define "main" }}
 <section class="page-header">
-  <div class="container">
+  <div class="container animate-on-scroll">
     <h1>{{ .Title | default "Articles" }}</h1>
     {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
   </div>
@@ -8,7 +8,7 @@
 
 <section class="articles-list">
   <div class="container">
-    <div class="filter-bar">
+    <div class="filter-bar animate-on-scroll">
       <input type="text" class="search-input" id="article-search" placeholder="Search articles..." aria-label="Search articles">
       <div class="filter-pills" role="radiogroup" aria-label="Filter by category">
         <button class="filter-pill active" data-filter="all" type="button" aria-pressed="true">All</button>
@@ -21,11 +21,11 @@
       </div>
     </div>
 
-    <div class="articles-grid" id="articles-grid">
+    <div class="articles-grid stagger-children" id="articles-grid">
       {{ range .Pages }}
       {{ $pageLink := .Permalink }}
       {{ $pageTitle := .Title }}
-      <article class="article-card" data-tags="{{ with .Params.tags }}{{ delimit . "," | lower }}{{ end }}">
+      <article class="article-card animate-on-scroll" data-tags="{{ with .Params.tags }}{{ delimit . "," | lower }}{{ end }}">
         {{ with .Params.image }}
         <div class="article-image">
           <a href="{{ $pageLink }}">

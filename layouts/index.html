@@ -3,16 +3,18 @@
 <!-- Hero Section -->
 <section class="hero" id="hero">
   <div class="hero-bg"></div>
+  <div class="decorative-orb orb-gold animate-float" style="width: 400px; height: 400px; top: -100px; right: -150px;"></div>
+  <div class="decorative-orb orb-warm animate-pulse" style="width: 300px; height: 300px; bottom: -80px; left: -100px;"></div>
   <div class="hero-content">
     <div class="hero-text">
-      <h1>Find Your Perfect Loan, Fast.</h1>
-      <p class="hero-subtitle">Dream home or better rates, we make it happen. Personalised options, lowest rates, hassle-free.</p>
-      <div class="hero-actions">
-        <a href="#contact" class="btn btn-primary">Book a Call</a>
+      <h1 class="animate-fade-up delay-100">Find Your Perfect Loan, Fast.</h1>
+      <p class="hero-subtitle animate-fade-up delay-200">Dream home or better rates, we make it happen. Personalised options, lowest rates, hassle-free.</p>
+      <div class="hero-actions animate-fade-up delay-300">
+        <a href="#contact" class="btn btn-primary">Book a Call <span class="btn-arrow">&rarr;</span></a>
         <a href="#services" class="btn btn-secondary">Our Services</a>
       </div>
     </div>
-    <div class="hero-image">
+    <div class="hero-image animate-fade-up delay-400">
       <img src="{{ "images/brisbane-mortgage-broker-auri-finance-office.webp" | relURL }}" alt="Happy homeowners with keys to their new home" loading="eager">
     </div>
   </div>
@@ -21,27 +23,26 @@
 <!-- Services Section -->
 <section class="services" id="services">
   <div class="container">
-    <h2>How can we help?</h2>
-    <div class="services-grid">
-      <div class="service-card">
+    <div class="animate-on-scroll" style="text-align: center;">
+      <span class="section-badge">Our Services</span>
+      <h2>How can we help?</h2>
+    </div>
+    <div class="services-grid stagger-children">
+      <div class="service-card animate-on-scroll">
         <h3>Refinance</h3>
         <p>Consider refinancing your home for potential savings on interest rates and monthly payments.</p>
-
       </div>
-      <div class="service-card">
+      <div class="service-card animate-on-scroll">
         <h3>Purchase</h3>
         <p>Considering a new property? Let's discuss our home loan options tailored to your needs.</p>
-
       </div>
-      <div class="service-card">
+      <div class="service-card animate-on-scroll">
         <h3>Personal Loan</h3>
         <p>We offer a range of personal loan options to suit your needs, with competitive rates and flexible terms.</p>
-
       </div>
-      <div class="service-card">
+      <div class="service-card animate-on-scroll">
         <h3>SMSF Lending</h3>
         <p>Looking to purchase property through your self-managed super fund? We'll guide you through the process and find the right SMSF loan.</p>
-
       </div>
     </div>
   </div>
@@ -50,9 +51,12 @@
 <!-- Process Section -->
 <section class="process" id="process">
   <div class="container">
-    <h2>What's the process?</h2>
-    <div class="process-grid">
-      <div class="process-step">
+    <div class="animate-on-scroll" style="text-align: center;">
+      <span class="section-badge">How It Works</span>
+      <h2>What's the process?</h2>
+    </div>
+    <div class="process-grid stagger-children">
+      <div class="process-step animate-on-scroll">
         <div class="step-number">1</div>
         <div class="step-content">
           <h3>Initial Consultation</h3>
@@ -60,7 +64,7 @@
           <a href="#contact" class="btn btn-primary">Book a Call</a>
         </div>
       </div>
-      <div class="process-step">
+      <div class="process-step animate-on-scroll">
         <div class="step-number">2</div>
         <div class="step-content">
           <h3>Tailored Research</h3>
@@ -68,14 +72,14 @@
           <a href="#lenders" class="btn btn-secondary">View Our Lenders</a>
         </div>
       </div>
-      <div class="process-step">
+      <div class="process-step animate-on-scroll">
         <div class="step-number">3</div>
         <div class="step-content">
           <h3>Application & Approval</h3>
           <p>We handle the paperwork and liaise with lenders on your behalf, making the application process as smooth and stress-free as possible.</p>
         </div>
       </div>
-      <div class="process-step">
+      <div class="process-step animate-on-scroll">
         <div class="step-number">4</div>
         <div class="step-content">
           <h3>Settlement & Beyond</h3>
@@ -89,8 +93,11 @@
 <!-- Lenders Section -->
 <section class="lenders" id="lenders">
   <div class="container">
-    <h2>Over 40 lenders to choose from</h2>
-    <div class="lenders-grid">
+    <div class="animate-on-scroll" style="text-align: center;">
+      <span class="section-badge">Our Partners</span>
+      <h2>Over 40 lenders to choose from</h2>
+    </div>
+    <div class="lenders-grid animate-on-scroll">
       <div class="lender-logo"><img src="{{ "images/lenders/commbank.webp" | relURL }}" alt="CommBank" loading="lazy"></div>
       <div class="lender-logo"><img src="{{ "images/lenders/anz.webp" | relURL }}" alt="ANZ" loading="lazy"></div>
       <div class="lender-logo"><img src="{{ "images/lenders/westpac.webp" | relURL }}" alt="Westpac" loading="lazy"></div>
@@ -112,13 +119,13 @@
 {{ if $posts }}
 <section class="articles" id="articles">
   <div class="container">
-    <div class="section-header">
+    <div class="section-header animate-on-scroll">
       <h2>Latest Articles</h2>
       <a href="{{ "articles/" | relURL }}" class="btn btn-secondary">View All</a>
     </div>
-    <div class="articles-grid">
+    <div class="articles-grid stagger-children">
       {{ range first 3 $posts }}
-      <article class="article-card">
+      <article class="article-card animate-on-scroll">
         {{ with .Params.image }}
         <div class="article-image">
           <a href="{{ $.Permalink }}">
@@ -148,9 +155,12 @@
 <section class="about" id="about">
   <div class="container">
     <div class="about-content">
-      <h2>Why Choose Auri Finance?</h2>
-      <p>Empowering individuals on their financial journey, we are committed to making lending simple. Through personalised service and streamlined solutions, we aim to guide our clients &mdash; new buyers, homeowners, investors, and business owners &mdash; towards financial success with ease and clarity.</p>
-      <div class="about-stats">
+      <div class="animate-on-scroll">
+        <span class="section-badge">Why Us</span>
+        <h2>Why Choose Auri Finance?</h2>
+        <p>Empowering individuals on their financial journey, we are committed to making lending simple. Through personalised service and streamlined solutions, we aim to guide our clients &mdash; new buyers, homeowners, investors, and business owners &mdash; towards financial success with ease and clarity.</p>
+      </div>
+      <div class="about-stats animate-on-scroll">
         <div class="stat">
           <span class="stat-number">40+</span>
           <span class="stat-label">Lender Partners</span>
@@ -171,11 +181,11 @@
 <!-- Contact / CTA Section -->
 <section class="contact" id="contact">
   <div class="container">
-    <div class="cta-box">
+    <div class="cta-box animate-on-scroll">
       <h2>Ready to get started?</h2>
       <p>Book a free consultation call and let's find the perfect loan for you.</p>
       <div class="cta-actions">
-        <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary">Call {{ .Site.Params.phone }}</a>
+        <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary">Call {{ .Site.Params.phone }} <span class="btn-arrow">&rarr;</span></a>
         <a href="mailto:{{ .Site.Params.email }}" class="btn btn-secondary">Email Us</a>
       </div>
     </div>
