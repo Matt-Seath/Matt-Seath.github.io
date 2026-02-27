@@ -124,7 +124,7 @@
       <a href="{{ "articles/" | relURL }}" class="btn btn-secondary">View All</a>
     </div>
     <div class="articles-grid stagger-children">
-      {{ range first 3 $posts }}
+      {{ range first 4 $posts }}
       <article class="article-card animate-on-scroll">
         {{ with .Params.image }}
         <div class="article-image">
