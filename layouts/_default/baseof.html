@@ -10,14 +10,24 @@
   </main>
   {{- partial "footer.html" . -}}
   <script>
-    // Mobile menu toggle
+    // Header & mobile menu
+    const siteHeader = document.querySelector('.site-header');
     const burger = document.querySelector('.header-burger-btn');
     const mobileMenu = document.querySelector('.mobile-menu');
+    const closeMobileMenu = () => {
+      if (mobileMenu) mobileMenu.classList.remove('active');
+      if (burger) burger.classList.remove('active');
+      if (siteHeader) siteHeader.classList.remove('menu-open');
+    };
     if (burger && mobileMenu) {
       burger.addEventListener('click', () => {
         mobileMenu.classList.toggle('active');
         burger.classList.toggle('active');
+        siteHeader.classList.toggle('menu-open');
       });
+      for (const link of mobileMenu.querySelectorAll('a')) {
+        link.addEventListener('click', closeMobileMenu);
+      }
     }
 
     // Smooth scroll for anchor links
@@ -28,14 +38,12 @@
         if (target) {
           e.preventDefault();
           target.scrollIntoView({ behavior: 'smooth' });
-          if (mobileMenu) mobileMenu.classList.remove('active');
-          if (burger) burger.classList.remove('active');
+          closeMobileMenu();
         }
       });
     });
 
     // Header scroll glass effect
-    const siteHeader = document.querySelector('.site-header');
     if (siteHeader) {
       window.addEventListener('scroll', () => {
         if (window.scrollY > 20) {
