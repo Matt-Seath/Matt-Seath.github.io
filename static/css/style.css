@@ -651,6 +651,18 @@ h4 { font-size: 1.1rem; }
   box-shadow: var(--shadow-soft-lg);
 }
 
+.article-image {
+  position: relative;
+}
+
+.article-image::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(184, 134, 11, 0.25);
+  pointer-events: none;
+}
+
 .article-image img {
   width: 100%;
   aspect-ratio: 16 / 9;
