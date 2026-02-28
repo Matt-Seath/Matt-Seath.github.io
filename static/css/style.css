@@ -1175,6 +1175,12 @@ h4 { font-size: 1.1rem; }
 }
 
 /* --- Responsive --- */
+@media (min-width: 1600px) {
+  .hero {
+    min-height: 900px;
+  }
+}
+
 @media (max-width: 1024px) {
   .hero-image {
     width: 100%;
