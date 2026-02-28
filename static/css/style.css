@@ -81,7 +81,7 @@ h4 { font-size: 1.1rem; }
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 4vw;
+  padding: 0 clamp(16px, 4vw, 56px);
 }
 
 .container-narrow {
