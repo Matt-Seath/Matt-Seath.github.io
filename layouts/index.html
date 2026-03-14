@@ -125,11 +125,13 @@
     </div>
     <div class="articles-grid stagger-children">
       {{ range first 4 $posts }}
+      {{ $link := .Permalink }}
+      {{ $title := .Title }}
       <article class="article-card animate-on-scroll">
         {{ with .Params.image }}
         <div class="article-image">
-          <a href="{{ $.Permalink }}">
-            <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+          <a href="{{ $link }}">
+            <img src="{{ . | relURL }}" alt="{{ $title }}" loading="lazy">
           </a>
         </div>
         {{ end }}
