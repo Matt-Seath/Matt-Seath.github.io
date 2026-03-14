@@ -53,5 +53,3 @@ A combination of fixed and variable rates, giving you both certainty and flexibi
 ## How Auri Finance Can Help
 
 At Auri Finance, we specialise in helping first home buyers navigate the lending landscape. We compare loans from over 40 lenders to find the best option for your situation — and our service is completely free to you.
-
-[Book a free consultation](#contact) to get started on your home buying journey.

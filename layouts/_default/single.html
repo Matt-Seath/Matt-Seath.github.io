@@ -24,6 +24,16 @@
   <div class="post-body animate-on-scroll">
     <div class="container container-narrow">
       {{ .Content }}
+      {{ with .Site.Params.discoveryLink }}
+      <p><a href="{{ . }}">Click here to get started on your discovery journey.</a></p>
+      {{ end }}
+      {{ with .Site.Params.disclaimer }}
+      <br>
+      <br>
+      <hr>
+      <br>
+      <p class="disclaimer">{{ . }}</p>
+      {{ end }}
     </div>
   </div>
 
