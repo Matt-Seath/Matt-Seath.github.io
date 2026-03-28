@@ -25,7 +25,7 @@
     <div class="container container-narrow">
       {{ .Content }}
       {{ with .Site.Params.discoveryLink }}
-      <p><a href="{{ . }}">Click here to get started on your discovery journey.</a></p>
+      <p style="margin-top: 3rem;"><a href="{{ . }}" class="btn btn-primary">Start your journey here <span class="btn-arrow">&rarr;</span></a></p>
       {{ end }}
       {{ with .Site.Params.disclaimer }}
       <br>

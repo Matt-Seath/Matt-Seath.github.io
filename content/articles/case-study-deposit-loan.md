@@ -7,7 +7,7 @@ tags: ['Case Study', 'Equity Release', 'Investor', 'Cash Flow']
 image: '/images/posts/_INVESTING.jpg'
 ---
 
-**TL;DR** — Helping a buyer secure their property without immediate cash.
+**TL;DR:** Helping a buyer secure their property without immediate cash.
 
 ## Client Profile
 
@@ -29,7 +29,7 @@ Without the deposit, they risked losing the property.
 
 Auri Finance structured a deposit loan facility to fund the 10% deposit required at contract exchange. The strategy included:
 
-- A short-term deposit loan covering the $90,000 deposit
+- A short term deposit loan covering the $90,000 deposit
 - A simultaneous refinance of the client's existing property to release equity
 - Structuring the final loan at 80% LVR to avoid LMI
 
@@ -38,4 +38,4 @@ Auri Finance structured a deposit loan facility to fund the 10% deposit required
 - Client secured the property immediately
 - No need to sell investments prematurely
 - Deposit loan repaid at settlement using released equity
-- Final lending structure optimised for long-term investment strategy
+- Final lending structure optimised for long term investment strategy
