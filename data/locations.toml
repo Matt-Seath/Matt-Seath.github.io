@@ -1,0 +1,186 @@
+# Australian States
+[states]
+
+[states.qld]
+  name = "Queensland"
+  abbreviation = "QLD"
+  capital = "Brisbane"
+  fhogAmount = "$30,000"
+  fhogThreshold = "$750,000"
+  stampDutyNote = "Concessions available for homes under $550,000. Vacant land concessions under $400,000."
+
+[states.nsw]
+  name = "New South Wales"
+  abbreviation = "NSW"
+  capital = "Sydney"
+  fhogAmount = "$10,000"
+  fhogThreshold = "$600,000"
+  stampDutyNote = "First home buyers pay no stamp duty on properties up to $800,000 with concessions up to $1,000,000."
+
+[states.vic]
+  name = "Victoria"
+  abbreviation = "VIC"
+  capital = "Melbourne"
+  fhogAmount = "$10,000"
+  fhogThreshold = "$750,000"
+  stampDutyNote = "First home buyers exempt from stamp duty on properties up to $600,000 with concessions up to $750,000."
+
+[states.sa]
+  name = "South Australia"
+  abbreviation = "SA"
+  capital = "Adelaide"
+  fhogAmount = "$15,000"
+  fhogThreshold = "$650,000"
+  stampDutyNote = "No stamp duty for first home buyers on new homes up to $650,000."
+
+[states.wa]
+  name = "Western Australia"
+  abbreviation = "WA"
+  capital = "Perth"
+  fhogAmount = "$10,000"
+  fhogThreshold = "$750,000"
+  stampDutyNote = "First home buyers exempt from transfer duty on properties up to $430,000 with concessions up to $530,000."
+
+[states.tas]
+  name = "Tasmania"
+  abbreviation = "TAS"
+  capital = "Hobart"
+  fhogAmount = "$30,000"
+  fhogThreshold = "$600,000"
+  stampDutyNote = "50% duty concession available for first home buyers on established homes up to $600,000."
+
+[states.act]
+  name = "Australian Capital Territory"
+  abbreviation = "ACT"
+  capital = "Canberra"
+  fhogAmount = "Varies"
+  fhogThreshold = "Income tested"
+  stampDutyNote = "Home Buyer Concession Scheme provides full stamp duty concession for eligible buyers with income under $160,000."
+
+[states.nt]
+  name = "Northern Territory"
+  abbreviation = "NT"
+  capital = "Darwin"
+  fhogAmount = "$10,000"
+  fhogThreshold = "$750,000"
+  stampDutyNote = "FHOG of $10,000 available. Additional stamp duty concessions for first home buyers."
+
+# QLD Suburbs near Sunnybank
+[suburbs]
+
+[suburbs.sunnybank]
+  name = "Sunnybank"
+  postcode = "4109"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "12km south"
+  nearbySuburbs = ["Sunnybank Hills", "Runcorn", "Robertson", "Macgregor", "Coopers Plains"]
+  highlights = ["Multicultural dining and shopping hub", "Strong rental demand", "Excellent public transport links", "Close to Griffith University"]
+
+[suburbs.sunnybank-hills]
+  name = "Sunnybank Hills"
+  postcode = "4109"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "14km south"
+  nearbySuburbs = ["Sunnybank", "Runcorn", "Algester", "Calamvale", "Stretton"]
+  highlights = ["Family friendly suburb", "Quality schools nearby", "Parks and green spaces", "Strong owner occupier market"]
+
+[suburbs.runcorn]
+  name = "Runcorn"
+  postcode = "4113"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "15km south"
+  nearbySuburbs = ["Sunnybank Hills", "Kuraby", "Eight Mile Plains", "Robertson"]
+  highlights = ["Affordable entry point to south side", "Close to motorway access", "Mix of houses and townhouses", "Growing demand from young families"]
+
+[suburbs.robertson]
+  name = "Robertson"
+  postcode = "4109"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "13km south"
+  nearbySuburbs = ["Sunnybank", "Macgregor", "Coopers Plains", "Runcorn"]
+  highlights = ["Close to Sunnybank Plaza", "Quiet residential streets", "Good bus connections", "Popular with investors"]
+
+[suburbs.macgregor]
+  name = "Macgregor"
+  postcode = "4109"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "13km south"
+  nearbySuburbs = ["Sunnybank", "Robertson", "Eight Mile Plains", "Upper Mount Gravatt"]
+  highlights = ["Adjacent to Griffith University", "Strong student rental demand", "Bushland reserves", "Mix of established and newer homes"]
+
+[suburbs.algester]
+  name = "Algester"
+  postcode = "4115"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "16km south"
+  nearbySuburbs = ["Sunnybank Hills", "Calamvale", "Parkinson", "Acacia Ridge"]
+  highlights = ["Affordable family suburb", "Close to Algester State School", "Parks and sporting fields", "Quiet residential streets"]
+
+[suburbs.calamvale]
+  name = "Calamvale"
+  postcode = "4116"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "18km south"
+  nearbySuburbs = ["Sunnybank Hills", "Stretton", "Algester", "Drewvale"]
+  highlights = ["Modern housing estates", "Calamvale Marketplace shopping", "Growing population", "Quality primary and secondary schools"]
+
+[suburbs.stretton]
+  name = "Stretton"
+  postcode = "4116"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "18km south"
+  nearbySuburbs = ["Calamvale", "Sunnybank Hills", "Kuraby", "Drewvale"]
+  highlights = ["Stretton State College catchment", "Large family homes", "Premium south side location", "Low density residential area"]
+
+[suburbs.eight-mile-plains]
+  name = "Eight Mile Plains"
+  postcode = "4113"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "14km south"
+  nearbySuburbs = ["Runcorn", "Macgregor", "Kuraby", "Upper Mount Gravatt"]
+  highlights = ["Eight Mile Plains bus station", "Technology Park precinct", "Easy motorway access", "Mix of houses and units"]
+
+[suburbs.kuraby]
+  name = "Kuraby"
+  postcode = "4112"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "16km south"
+  nearbySuburbs = ["Runcorn", "Eight Mile Plains", "Stretton", "Underwood"]
+  highlights = ["Kuraby train station", "Kuraby bushland reserve", "Affordable house prices", "Strong community feel"]
+
+[suburbs.coopers-plains]
+  name = "Coopers Plains"
+  postcode = "4108"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "10km south"
+  nearbySuburbs = ["Sunnybank", "Robertson", "Moorooka", "Salisbury"]
+  highlights = ["Close to CBD", "Coopers Plains train station", "Affordable units and houses", "Near Queen Elizabeth II Hospital"]
+
+[suburbs.moorooka]
+  name = "Moorooka"
+  postcode = "4105"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "8km south"
+  nearbySuburbs = ["Coopers Plains", "Annerley", "Salisbury", "Tarragindi"]
+  highlights = ["Very close to CBD", "Beaudesert Road shopping strip", "Moorooka train station", "Character homes with renovation potential"]
+
+[suburbs.acacia-ridge]
+  name = "Acacia Ridge"
+  postcode = "4110"
+  region = "South Brisbane"
+  council = "Brisbane City Council"
+  distanceFromCBD = "15km south"
+  nearbySuburbs = ["Algester", "Sunnybank Hills", "Coopers Plains", "Archerfield"]
+  highlights = ["Industrial and residential mix", "Affordable entry point", "Elizabeth Street shopping", "Close to major transport routes"]

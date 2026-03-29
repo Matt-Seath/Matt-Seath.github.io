@@ -1,12 +1,34 @@
 baseURL = 'https://matt-seath.github.io/'
 languageCode = 'en-AU'
 title = 'Auri Finance'
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
 
 [params]
-  description = 'Empowering individuals on their financial journey, we are committed to making lending simple. Through personalised service and streamlined solutions, we aim to guide our clients towards financial success with ease and clarity.'
+  description = 'Auri Finance is a Brisbane based mortgage broker comparing 40+ lenders to find you the right home loan. Serving Sunnybank, South Brisbane and all of Australia.'
+  tagline = 'Mortgage Broker Brisbane & Australia-Wide'
+  defaultImage = '/images/og-default.jpg'
   phone = '0485 68 88 11'
   email = 'sophie@aurifinance.com.au'
-  address = 'Brisbane, Queensland'
+  address = 'Sunnybank, Brisbane QLD 4109'
+
+[params.business]
+  name = 'Auri Finance'
+  legalName = 'Auri Finance Pty Ltd'
+  abn = '27 695 121 227'
+  creditRepNumber = '576761'
+  aggregator = 'Finsure Finance and Insurance Pty Ltd'
+  aggregatorABN = '72 068 153 926'
+  aggregatorACL = '384704'
+  foundingDate = '2024'
+  priceRange = 'Free'
+  latitude = '-27.5788'
+  longitude = '153.0587'
+
+[params.legal]
   abn = 'Auri Finance Pty Ltd ABN 27 695 121 227 is a credit representative 576761 of Finsure Finance and Insurance Pty Ltd. ABN 72 068 153 926. Australian Credit Licence Number 384704.'
   discoveryLink = 'https://app.middle.finance/ref/8e6152b2-106c-46e1-86ec-b6d1f6aa21f9'
   disclaimer = 'The information provided on this website, including articles, examples, and case studies, is for general information purposes only and does not constitute financial, credit, or legal advice. Case studies are illustrative examples based on real or typical scenarios, however individual circumstances vary and results cannot be guaranteed. The outcomes described may not be representative of all clients. Loan structures, strategies, and approvals are subject to lender assessment, eligibility criteria, and lending policies at the time of application. Before making any financial decisions, you should consider your personal objectives, financial situation, and needs, and seek appropriate professional advice where required. Auri Finance Pty Ltd acts as a mortgage broker and not a lender.'
@@ -41,3 +63,7 @@ title = 'Auri Finance'
     name = 'Articles'
     url = '/articles/'
     weight = 4
+  [[menu.main]]
+    name = 'Locations'
+    url = '/locations/'
+    weight = 5

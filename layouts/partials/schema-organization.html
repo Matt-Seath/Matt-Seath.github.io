@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MortgageBroker",
+  "name": "{{ .Site.Params.business.name }}",
+  "legalName": "{{ .Site.Params.business.legalName }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ "images/logo.png" | absURL }}",
+  "telephone": "{{ .Site.Params.phone }}",
+  "email": "{{ .Site.Params.email }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Sunnybank",
+    "addressRegion": "QLD",
+    "postalCode": "4109",
+    "addressCountry": "AU"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ .Site.Params.business.latitude }},
+    "longitude": {{ .Site.Params.business.longitude }}
+  },
+  "sameAs": [
+    "{{ .Site.Params.social.instagram }}",
+    "{{ .Site.Params.social.facebook }}",
+    "{{ .Site.Params.social.linkedin }}"
+  ],
+  "priceRange": "{{ .Site.Params.business.priceRange }}",
+  "foundingDate": "{{ .Site.Params.business.foundingDate }}"
+}
+</script>

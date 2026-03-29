@@ -1,0 +1,131 @@
+{{ define "main" }}
+{{ $suburbKey := .Params.suburb }}
+{{ $suburbData := index .Site.Data.locations.suburbs $suburbKey }}
+{{ $stateKey := .Params.state }}
+{{ $stateData := index .Site.Data.locations.states $stateKey }}
+
+<header class="post-header">
+  <div class="container container-narrow animate-on-scroll">
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="post-description">{{ . }}</p>{{ end }}
+  </div>
+</header>
+
+<div class="post-body">
+  <div class="container container-narrow">
+    {{ .Content }}
+
+    {{ with $suburbData }}
+    <div class="suburb-snapshot animate-on-scroll">
+      <h2>{{ .name }} at a Glance</h2>
+      <div class="snapshot-grid">
+        <div class="snapshot-item">
+          <span class="snapshot-label">Postcode</span>
+          <span class="snapshot-value">{{ .postcode }}</span>
+        </div>
+        <div class="snapshot-item">
+          <span class="snapshot-label">Region</span>
+          <span class="snapshot-value">{{ .region }}</span>
+        </div>
+        <div class="snapshot-item">
+          <span class="snapshot-label">Distance from CBD</span>
+          <span class="snapshot-value">{{ .distanceFromCBD }}</span>
+        </div>
+        <div class="snapshot-item">
+          <span class="snapshot-label">Council</span>
+          <span class="snapshot-value">{{ .council }}</span>
+        </div>
+      </div>
+      {{ with .highlights }}
+      <div class="snapshot-highlights">
+        <h3>Area Highlights</h3>
+        <ul>
+          {{ range . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<!-- Related Articles -->
+{{ $articles := first 3 (where .Site.RegularPages "Section" "articles") }}
+{{ if $articles }}
+<section class="articles">
+  <div class="container">
+    <div class="section-header animate-on-scroll">
+      <h2>Home Loan Guides</h2>
+      <a href="{{ "articles/" | relURL }}" class="btn btn-secondary">View All</a>
+    </div>
+    <div class="articles-grid stagger-children">
+      {{ range $articles }}
+      <article class="article-card animate-on-scroll">
+        {{ with .Params.image }}
+        <div class="article-image">
+          <a href="{{ $.Permalink }}">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy">
+          </a>
+        </div>
+        {{ end }}
+        <div class="article-content">
+          <div class="article-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+            {{ range .Params.tags }}
+            <span class="tag">{{ . }}</span>
+            {{ end }}
+          </div>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Description }}</p>
+          <a href="{{ .Permalink }}" class="article-link">Read more &rarr;</a>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- Nearby Suburbs -->
+{{ with $suburbData }}
+{{ if .nearbySuburbs }}
+<section class="services">
+  <div class="container">
+    <div class="animate-on-scroll" style="text-align: center;">
+      <span class="section-badge">Nearby Areas</span>
+      <h2>We also serve these nearby suburbs</h2>
+    </div>
+    <div class="locations-grid animate-on-scroll">
+      {{ $suburbs := $.Site.Data.locations.suburbs }}
+      {{ range .nearbySuburbs }}
+        {{ $slug := . | urlize }}
+        {{ $nearby := index $suburbs $slug }}
+        {{ $page := $.Site.GetPage (printf "/locations/qld/%s" $slug) }}
+        {{ if $page }}
+        <a href="{{ $page.Permalink }}" class="location-card">
+          <h3>{{ . }}</h3>
+          {{ with $nearby }}<span class="location-meta">{{ .postcode }} &middot; {{ .distanceFromCBD }} from CBD</span>{{ end }}
+          <span class="location-link">Learn more &rarr;</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<section class="contact" id="contact">
+  <div class="container">
+    <div class="cta-box animate-on-scroll">
+      <h2>Looking for a mortgage broker{{ with $suburbData }} in {{ .name }}{{ end }}?</h2>
+      <p>Book a free consultation and we'll find the right loan for your situation.</p>
+      <div class="cta-actions">
+        <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary">Call {{ .Site.Params.phone }} <span class="btn-arrow">&rarr;</span></a>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-secondary">Email Us</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

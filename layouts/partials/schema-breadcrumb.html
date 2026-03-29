@@ -1,0 +1,24 @@
+{{ $breadcrumbs := slice (dict "name" "Home" "url" (.Site.BaseURL)) }}
+{{ if .Parent }}
+  {{ range .Ancestors.Reverse }}
+    {{ if not .IsHome }}
+      {{ $breadcrumbs = $breadcrumbs | append (dict "name" .Title "url" .Permalink) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $breadcrumbs = $breadcrumbs | append (dict "name" .Title "url" .Permalink) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{ range $i, $crumb := $breadcrumbs }}{{ if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "name": "{{ $crumb.name }}",
+      "item": "{{ $crumb.url }}"
+    }{{ end }}
+  ]
+}
+</script>

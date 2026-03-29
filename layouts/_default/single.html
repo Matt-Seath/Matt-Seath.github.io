@@ -24,10 +24,10 @@
   <div class="post-body animate-on-scroll">
     <div class="container container-narrow">
       {{ .Content }}
-      {{ with .Site.Params.discoveryLink }}
+      {{ with .Site.Params.legal.discoveryLink }}
       <p style="margin-top: 3rem;"><a href="{{ . }}" class="btn btn-primary">Start your journey here <span class="btn-arrow">&rarr;</span></a></p>
       {{ end }}
-      {{ with .Site.Params.disclaimer }}
+      {{ with .Site.Params.legal.disclaimer }}
       <br>
       <br>
       <hr>

@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["MortgageBroker", "FinancialService"],
+  "name": "{{ .Site.Params.business.name }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ "images/logo.png" | absURL }}",
+  "telephone": "{{ .Site.Params.phone }}",
+  "email": "{{ .Site.Params.email }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Sunnybank",
+    "addressRegion": "QLD",
+    "postalCode": "4109",
+    "addressCountry": "AU"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ .Site.Params.business.latitude }},
+    "longitude": {{ .Site.Params.business.longitude }}
+  },
+  "areaServed": [
+    { "@type": "State", "name": "Queensland" },
+    { "@type": "State", "name": "New South Wales" },
+    { "@type": "State", "name": "Victoria" },
+    { "@type": "State", "name": "South Australia" },
+    { "@type": "State", "name": "Western Australia" },
+    { "@type": "State", "name": "Tasmania" },
+    { "@type": "State", "name": "Australian Capital Territory" },
+    { "@type": "State", "name": "Northern Territory" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Mortgage Broker Services",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Refinancing" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Home Loan Purchase" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Personal Loans" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SMSF Lending" } }
+    ]
+  },
+  "priceRange": "{{ .Site.Params.business.priceRange }}"
+}
+</script>

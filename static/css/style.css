@@ -1086,6 +1086,218 @@ h4 { font-size: 1.1rem; }
   }
 }
 
+/* --- Breadcrumbs --- */
+.breadcrumbs {
+  margin-bottom: 1.5rem;
+}
+
+.breadcrumb-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+.breadcrumb-item a {
+  color: var(--color-text-muted);
+  font-weight: 500;
+}
+
+.breadcrumb-item a:hover {
+  color: var(--color-primary);
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: '/';
+  color: var(--color-border);
+  margin-right: 4px;
+}
+
+.breadcrumb-item.active {
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+/* --- Location Pages --- */
+.locations-overview {
+  padding: 60px 0;
+  background: var(--color-white);
+}
+
+.locations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.location-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: var(--color-bg);
+  border-radius: var(--radius-sm);
+  padding: 1.75rem;
+  border: 1px solid rgba(232, 220, 200, 0.5);
+  box-shadow: var(--shadow-soft);
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+  text-decoration: none;
+}
+
+.location-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-soft-lg);
+}
+
+.location-card h3 {
+  color: var(--color-text);
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+.location-meta {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.location-link {
+  color: var(--color-primary);
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: auto;
+}
+
+/* --- State Grants Card --- */
+.state-grants-card {
+  background: var(--color-bg);
+  border-radius: var(--radius-sm);
+  padding: 2rem;
+  margin: 2rem 0;
+  border: 1px solid rgba(232, 220, 200, 0.5);
+  box-shadow: var(--shadow-soft);
+}
+
+.state-grants-card h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+}
+
+.grants-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.grant-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.grant-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  font-weight: 600;
+}
+
+.grant-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-primary);
+}
+
+.grant-note {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  line-height: 1.4;
+}
+
+/* --- Suburb Snapshot --- */
+.suburb-snapshot {
+  background: var(--color-bg);
+  border-radius: var(--radius-sm);
+  padding: 2rem;
+  margin: 2rem 0;
+  border: 1px solid rgba(232, 220, 200, 0.5);
+  box-shadow: var(--shadow-soft);
+}
+
+.suburb-snapshot h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+}
+
+.snapshot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 16px;
+  margin-bottom: 1.5rem;
+}
+
+.snapshot-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.snapshot-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  font-weight: 600;
+}
+
+.snapshot-value {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.snapshot-highlights h3 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.snapshot-highlights ul {
+  list-style: none;
+  padding: 0;
+}
+
+.snapshot-highlights li {
+  padding: 4px 0;
+  padding-left: 20px;
+  position: relative;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+.snapshot-highlights li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 12px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-primary);
+}
+
+@media (max-width: 768px) {
+  .locations-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .snapshot-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 /* --- Post Navigation --- */
 .post-footer {
   border-top: 1px solid var(--color-border);
@@ -1146,7 +1358,7 @@ h4 { font-size: 1.1rem; }
   margin: 0 auto;
   padding: 0 4vw;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1.2fr 1fr 1fr 1fr 1fr;
   gap: 40px;
   justify-items: start;
 }

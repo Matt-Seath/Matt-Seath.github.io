@@ -1,0 +1,99 @@
+{{ define "main" }}
+{{ $stateKey := .Params.state }}
+{{ $stateData := index .Site.Data.locations.states $stateKey }}
+
+<header class="post-header">
+  <div class="container container-narrow animate-on-scroll">
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="post-description">{{ . }}</p>{{ end }}
+  </div>
+</header>
+
+<div class="post-body">
+  <div class="container container-narrow">
+    {{ .Content }}
+
+    {{ with $stateData }}
+    <div class="state-grants-card animate-on-scroll">
+      <h2>{{ .name }} First Home Buyer Grants</h2>
+      <div class="grants-grid">
+        <div class="grant-item">
+          <span class="grant-label">First Home Owner Grant</span>
+          <span class="grant-value">{{ .fhogAmount }}</span>
+          <span class="grant-note">For new homes up to {{ .fhogThreshold }}</span>
+        </div>
+        <div class="grant-item">
+          <span class="grant-label">Stamp Duty</span>
+          <span class="grant-value">Concessions Available</span>
+          <span class="grant-note">{{ .stampDutyNote }}</span>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{/* Suburb pages within this state */}}
+{{ $suburbs := .Pages }}
+{{ if $suburbs }}
+<section class="locations-overview">
+  <div class="container">
+    <div class="animate-on-scroll" style="text-align: center; margin-bottom: 2rem;">
+      <span class="section-badge">Local Areas</span>
+      <h2>Suburbs We Serve{{ with $stateData }} in {{ .name }}{{ end }}</h2>
+    </div>
+    <div class="locations-grid animate-on-scroll">
+      {{ range $suburbs }}
+      <a href="{{ .Permalink }}" class="location-card">
+        <h3>{{ .Title }}</h3>
+        {{ with .Description }}<span class="location-meta">{{ . }}</span>{{ end }}
+        <span class="location-link">Learn more &rarr;</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- Services Section -->
+<section class="services" id="services">
+  <div class="container">
+    <div class="animate-on-scroll" style="text-align: center;">
+      <span class="section-badge">Our Services</span>
+      <h2>How we can help{{ with $stateData }} in {{ .name }}{{ end }}</h2>
+    </div>
+    <div class="services-grid stagger-children">
+      <div class="service-card animate-on-scroll">
+        <h3>Refinance</h3>
+        <p>Consider refinancing your home for potential savings on interest rates and monthly payments.</p>
+      </div>
+      <div class="service-card animate-on-scroll">
+        <h3>Purchase</h3>
+        <p>Considering a new property? Let's discuss our home loan options tailored to your needs.</p>
+      </div>
+      <div class="service-card animate-on-scroll">
+        <h3>Personal Loan</h3>
+        <p>We offer a range of personal loan options to suit your needs, with competitive rates and flexible terms.</p>
+      </div>
+      <div class="service-card animate-on-scroll">
+        <h3>SMSF Lending</h3>
+        <p>Looking to purchase property through your self-managed super fund? We'll guide you through the process.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="contact" id="contact">
+  <div class="container">
+    <div class="cta-box animate-on-scroll">
+      <h2>Ready to get started{{ with $stateData }} in {{ .name }}{{ end }}?</h2>
+      <p>Book a free consultation and we'll find the right loan for your situation.</p>
+      <div class="cta-actions">
+        <a href="tel:{{ .Site.Params.phone }}" class="btn btn-primary">Call {{ .Site.Params.phone }} <span class="btn-arrow">&rarr;</span></a>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-secondary">Email Us</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
