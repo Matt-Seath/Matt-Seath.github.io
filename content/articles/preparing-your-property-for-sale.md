@@ -54,7 +54,7 @@ Even partial styling, focusing on key rooms like the living area, master bedroom
 
 ## Getting Your Finance Sorted Before You Sell
 
-If you are selling to buy your next property, getting your finance preapproved before listing is crucial. This allows you to:
+If you are selling to buy your next property, getting your finance pre-approved before listing is crucial. This allows you to:
 
 - **Know your budget** for the next purchase
 - **Move quickly** when you find the right property

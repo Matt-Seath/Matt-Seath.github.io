@@ -13,7 +13,7 @@ Algester is a quiet, residential suburb in Brisbane's south, located approximate
 
 ## Property Landscape in Algester
 
-The suburb is predominantly made up of detached houses, many built in the 1980s and 1990s on blocks ranging from 600 to 800 square metres. These properties are typically single or double storey, with practical floor plans designed for family living. Some homes have been extensively renovated, while others present opportunities for buyers who want to add value through updates and improvements. A smaller selection of townhouses and duplexes provides options at a lower price point. Compared to many Brisbane suburbs within a similar distance from the city, Algester remains relatively affordable, which continues to attract attention from both owner occupiers and investors.
+The suburb is predominantly made up of detached houses, many built in the 1980s and 1990s on blocks ranging from 600 to 800 square metres. These properties are typically single or double storey, with practical floor plans designed for family living. Some homes have been extensively renovated, while others present opportunities for buyers who want to add value through updates and improvements. A smaller selection of townhouses and duplexes provides options at a lower price point. Compared to many Brisbane suburbs within a similar distance from the city, Algester remains relatively affordable, which continues to attract attention from both owner-occupiers and investors.
 
 ## Who Buys in Algester?
 

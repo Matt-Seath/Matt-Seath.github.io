@@ -46,7 +46,7 @@ The Pacific Motorway (M3) is easily accessible, providing quick connections sout
 
 **Borrowing power assessment:** We calculate your borrowing capacity across multiple lenders, not just one. Different lenders assess income and expenses differently, and the variation can be significant. We recently worked with a Sunnybank buyer whose borrowing capacity ranged from $580,000 at one lender to $720,000 at another, based on the same financial situation.
 
-**Pre approval:** In a competitive market, having pre approval ready means you can make offers with confidence. We typically get pre approval within 3 to 5 business days.
+**Pre approval:** In a competitive market, having pre-approval ready means you can make offers with confidence. We typically get pre-approval within 3 to 5 business days.
 
 **Grant and concession guidance:** We help first home buyers identify everything they are eligible for, including the FHOG, stamp duty concessions, and the First Home Guarantee scheme.
 

@@ -31,7 +31,7 @@ Key areas we see strong activity:
 
 **Brisbane south side (Sunnybank, Logan, Springfield):** Established suburbs with a mix of houses, townhouses, and units. Popular with first home buyers and investors. Median house prices in suburbs like Sunnybank, Runcorn, and Calamvale typically range from $700,000 to $950,000, with units and townhouses offering entry points from $400,000.
 
-**Gold Coast corridor:** Continued growth in both owner occupier and investor markets. Suburbs like Coomera, Pimpama, and Ormeau offer new builds that qualify for the FHOG.
+**Gold Coast corridor:** Continued growth in both owner-occupier and investor markets. Suburbs like Coomera, Pimpama, and Ormeau offer new builds that qualify for the FHOG.
 
 **Ipswich and Springfield:** Some of the most affordable housing in South East Queensland. Springfield in particular continues to expand with new estates and commercial development.
 
@@ -43,17 +43,17 @@ Banks offer their own products. A broker compares across 40+ lenders to find the
 
 **Rate difference:** The gap between the best and worst variable rates on the market can be over 1.5%. On a $700,000 loan, that difference is roughly $600 per month in repayments.
 
-**Lender policies:** Not all lenders treat income the same way. Some are more favourable for overtime, bonuses, or casual income. If you are self employed or a contractor, the right lender choice can mean the difference between approval and decline.
+**Lender policies:** Not all lenders treat income the same way. Some are more favourable for overtime, bonuses, or casual income. If you are self-employed or a contractor, the right lender choice can mean the difference between approval and decline.
 
 **Postcode restrictions:** Some lenders apply postcode restrictions or higher LVR requirements for certain QLD areas, particularly regional towns and high density apartment postcodes. We know which lenders to avoid and which ones are competitive for your specific property.
 
-**Speed:** In a competitive market, having your finance pre approved and your broker ready to act quickly can be the difference between securing a property and missing out.
+**Speed:** In a competitive market, having your finance pre-approved and your broker ready to act quickly can be the difference between securing a property and missing out.
 
 ## Suburbs we serve in South Brisbane
 
 Our office is located near Sunnybank, and we regularly work with clients across Brisbane's south side. We know the local property market well and can help buyers and investors in these areas:
 
-**Sunnybank and surrounds:** Sunnybank (4109), Sunnybank Hills (4109), and Robertson (4109) form the heart of Brisbane's multicultural south side. Properties range from established family homes to modern townhouses, with strong demand from owner occupiers and investors. Sunnybank Plaza and Market Square are key local hubs, and the area is well connected by bus routes to the CBD and surrounding suburbs.
+**Sunnybank and surrounds:** Sunnybank (4109), Sunnybank Hills (4109), and Robertson (4109) form the heart of Brisbane's multicultural south side. Properties range from established family homes to modern townhouses, with strong demand from owner-occupiers and investors. Sunnybank Plaza and Market Square are key local hubs, and the area is well connected by bus routes to the CBD and surrounding suburbs.
 
 **Runcorn, Kuraby, and Eight Mile Plains:** These suburbs (4112 to 4113) offer an affordable entry point to the south side with access to the Pacific Motorway and South East Busway. Runcorn and Kuraby are serviced by train stations on the Beenleigh line. Popular with young families and first home buyers.
 
@@ -65,7 +65,7 @@ Our office is located near Sunnybank, and we regularly work with clients across 
 
 ## Our services in Queensland
 
-**Home purchases:** Whether you are buying your first home in Calamvale or upgrading to a larger family home in Stretton, we help you understand your borrowing power, compare loan options, and get pre approved so you can act with confidence.
+**Home purchases:** Whether you are buying your first home in Calamvale or upgrading to a larger family home in Stretton, we help you understand your borrowing power, compare loan options, and get pre-approved so you can act with confidence.
 
 **Refinancing:** If your rate is above 6% or your fixed period is expiring, there is a good chance you are paying more than you need to. We recently helped a Sunnybank homeowner with a $720,000 loan reduce their rate from 6.54% to 5.89%, saving approximately $820 per month.
 

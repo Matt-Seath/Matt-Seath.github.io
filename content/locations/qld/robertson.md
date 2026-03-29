@@ -21,7 +21,7 @@ Robertson attracts a varied mix of buyers. Professionals and young couples appre
 
 ## The Value of a Local Mortgage Broker
 
-In a competitive market like Robertson, preparation is everything. Having your finance arranged before you start making offers can be the difference between securing a property and missing out. A local mortgage broker understands the pace of the Robertson market and can help you get pre approved quickly. Beyond speed, a broker who operates in the area can offer insight into realistic price expectations, advise on loan structures suited to different property types, and connect you with other local professionals if needed. This kind of personalised, informed service is difficult to replicate through an online portal or a call centre based interstate.
+In a competitive market like Robertson, preparation is everything. Having your finance arranged before you start making offers can be the difference between securing a property and missing out. A local mortgage broker understands the pace of the Robertson market and can help you get pre-approved quickly. Beyond speed, a broker who operates in the area can offer insight into realistic price expectations, advise on loan structures suited to different property types, and connect you with other local professionals if needed. This kind of personalised, informed service is difficult to replicate through an online portal or a call centre based interstate.
 
 ## Why Choose Auri Finance?
 

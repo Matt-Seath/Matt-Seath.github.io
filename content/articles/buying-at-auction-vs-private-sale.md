@@ -25,7 +25,7 @@ Auction activity varies across Australian capital cities. In early 2026, nationa
 
 ### Tips for Auction Buyers
 
-1. **Get preapproved** with unconditional finance before the auction
+1. **Get pre-approved** with unconditional finance before the auction
 2. **Set a firm budget** and do not get caught up in bidding wars
 3. **Attend other auctions first** to observe and build confidence
 4. **Arrange building and pest inspections** before auction day, as there is no time after
@@ -47,7 +47,7 @@ In a private sale, the property is listed at a set price (or price range). Buyer
 1. **Research comparable sales** in the area to make a competitive offer
 2. **Include conditions** to protect yourself (finance, building inspection)
 3. **Move quickly** if the property is popular, as other buyers may also be making offers
-4. **Get preapproval** so you can move with confidence
+4. **Get pre-approval** so you can move with confidence
 5. **Use your broker** to confirm your borrowing capacity before making an offer
 
 ## Cooling Off Periods by State and Territory
@@ -89,8 +89,8 @@ Neither method is inherently better. It depends on the market, the property, and
 
 Whether you are buying at auction or by private sale, being finance ready is essential. Preapproval gives you a clear budget and shows sellers you are a serious buyer.
 
-For auction purchases, preapproval is not just helpful but essential. Because there is no cooling off period and no ability to include a "subject to finance" condition, you must have your finance locked in before you bid.
+For auction purchases, pre-approval is not just helpful but essential. Because there is no cooling off period and no ability to include a "subject to finance" condition, you must have your finance locked in before you bid.
 
-For private sales, preapproval strengthens your negotiating position. Sellers and agents are more likely to take your offer seriously when they know your finance is sorted.
+For private sales, pre-approval strengthens your negotiating position. Sellers and agents are more likely to take your offer seriously when they know your finance is sorted.
 
-At Auri Finance, we help you get preapproved quickly and guide you through the finance side of your purchase, no matter how you are buying.
+At Auri Finance, we help you get pre-approved quickly and guide you through the finance side of your purchase, no matter how you are buying.

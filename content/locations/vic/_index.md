@@ -45,11 +45,11 @@ Melbourne is Australia's second largest city, and its property market offers opp
 
 **Construction loans:** Victoria's growth corridors generate significant demand for construction lending. Construction loans work differently to standard home loans, with progressive drawdowns during the build. Not all lenders offer competitive construction loan products, and the terms vary significantly. We help you find a lender that offers both competitive rates and a practical drawdown process.
 
-**Self employed borrowers:** Melbourne has a large self employed and freelance population. Lender policies on self employed income vary dramatically. Some require two years of tax returns, while others accept one year or can work with BAS statements for more recent businesses. We match you with lenders whose policies suit your income type.
+**Self employed borrowers:** Melbourne has a large self-employed and freelance population. Lender policies on self-employed income vary dramatically. Some require two years of tax returns, while others accept one year or can work with BAS statements for more recent businesses. We match you with lenders whose policies suit your income type.
 
 ## Our services in Victoria
 
-**First home purchases:** We help first home buyers navigate Melbourne's competitive market, from borrowing power assessment through to pre approval and settlement. We identify every grant and concession you are eligible for.
+**First home purchases:** We help first home buyers navigate Melbourne's competitive market, from borrowing power assessment through to pre-approval and settlement. We identify every grant and concession you are eligible for.
 
 **Refinancing:** If your current rate is above 6%, or your fixed period is expiring in the next few months, it is worth checking what is available. Even a moderate rate reduction on a Melbourne mortgage delivers significant savings due to higher average loan sizes.
 

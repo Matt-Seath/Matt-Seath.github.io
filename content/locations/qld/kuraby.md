@@ -15,7 +15,7 @@ Kuraby strikes an appealing balance between affordability and location. It is cl
 
 Local amenities include parks, sporting fields, and bushland reserves that give the suburb a green, open feel. The nearby Karawatha Forest provides a natural escape within minutes of home. Schools in and around Kuraby are popular with families, and shopping is convenient with several centres a short drive away, including Sunnybank Hills Shoppingtown and Westfield Garden City.
 
-Property values in Kuraby have shown steady growth over recent years, supported by consistent demand from both owner occupiers and investors. The suburb's affordability relative to neighbouring areas makes it an attractive entry point for buyers looking for value in the southern corridor.
+Property values in Kuraby have shown steady growth over recent years, supported by consistent demand from both owner-occupiers and investors. The suburb's affordability relative to neighbouring areas makes it an attractive entry point for buyers looking for value in the southern corridor.
 
 ## Property types in Kuraby
 
@@ -33,7 +33,7 @@ Families make up a large portion of the resident population, valuing the quiet s
 
 The Kuraby market moves quickly, particularly at the more affordable end where first home buyers and investors compete for the same properties. Having your finance sorted before you start looking gives you a significant advantage at auction or when making an offer.
 
-A local mortgage broker can prepare you with a clear borrowing capacity, help you get pre approved, and ensure your loan structure aligns with your goals. We know which lenders offer the best terms for properties in the 4112 postcode and can streamline the process so you are ready to act when the right property appears.
+A local mortgage broker can prepare you with a clear borrowing capacity, help you get pre-approved, and ensure your loan structure aligns with your goals. We know which lenders offer the best terms for properties in the 4112 postcode and can streamline the process so you are ready to act when the right property appears.
 
 ## Auri Finance serves Kuraby
 

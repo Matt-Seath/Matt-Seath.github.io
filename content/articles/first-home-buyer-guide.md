@@ -44,7 +44,7 @@ A combination of fixed and variable rates, giving you both certainty and flexibi
 
 ## The Application Process
 
-1. **Get preapproved**: This gives you a clear budget and shows sellers you're serious
+1. **Get pre-approved**: This gives you a clear budget and shows sellers you're serious
 2. **Find your property**: Attend inspections and do your research
 3. **Make an offer**: Your agent or conveyancer can help with this
 4. **Formal approval**: The lender will assess the property and finalise your application

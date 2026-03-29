@@ -13,7 +13,7 @@ Runcorn is a popular residential suburb in Brisbane's south, approximately 16 ki
 
 ## Property Landscape in Runcorn
 
-The suburb is characterised by a mix of detached houses, duplexes, and townhouse complexes. Many of the original homes date from the 1970s and 1980s, built on blocks that are generous by today's standards. These properties often present opportunities for renovation or redevelopment, attracting both owner occupiers and investors. Newer townhouse and duplex developments have added more compact, low maintenance options to the market. Overall, Runcorn tends to offer more affordable price points than neighbouring suburbs like Sunnybank, making it an attractive proposition for buyers entering the market or looking to maximise rental yield.
+The suburb is characterised by a mix of detached houses, duplexes, and townhouse complexes. Many of the original homes date from the 1970s and 1980s, built on blocks that are generous by today's standards. These properties often present opportunities for renovation or redevelopment, attracting both owner-occupiers and investors. Newer townhouse and duplex developments have added more compact, low maintenance options to the market. Overall, Runcorn tends to offer more affordable price points than neighbouring suburbs like Sunnybank, making it an attractive proposition for buyers entering the market or looking to maximise rental yield.
 
 ## Who Buys in Runcorn?
 
@@ -21,7 +21,7 @@ Runcorn draws a diverse buyer pool. First home buyers find the suburb particular
 
 ## Why a Local Mortgage Broker Helps
 
-Purchasing property in Runcorn often involves moving quickly, especially at the more affordable end of the market where competition can be fierce. A mortgage broker based in the local area understands these dynamics and can help you prepare in advance. Getting pre approval sorted before you start inspecting properties puts you in a stronger negotiating position. A local broker also understands the types of properties available in Runcorn and can advise on how different loan structures suit different property types, whether you are buying a house on a large block or a unit in a managed complex.
+Purchasing property in Runcorn often involves moving quickly, especially at the more affordable end of the market where competition can be fierce. A mortgage broker based in the local area understands these dynamics and can help you prepare in advance. Getting pre-approval sorted before you start inspecting properties puts you in a stronger negotiating position. A local broker also understands the types of properties available in Runcorn and can advise on how different loan structures suit different property types, whether you are buying a house on a large block or a unit in a managed complex.
 
 ## Why Choose Auri Finance?
 

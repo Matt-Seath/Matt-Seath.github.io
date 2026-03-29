@@ -49,7 +49,7 @@ Instead of filling out multiple applications and comparing products yourself, yo
 
 ### Expert Guidance Through the Process
 
-From preapproval to settlement, your broker guides you through every step. They explain the jargon, help you understand the fine print, and advocate on your behalf if issues arise.
+From pre-approval to settlement, your broker guides you through every step. They explain the jargon, help you understand the fine print, and advocate on your behalf if issues arise.
 
 ### They Know the Policies
 

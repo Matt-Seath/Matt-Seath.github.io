@@ -41,13 +41,13 @@ Beyond rates, lender policies vary significantly for NSW buyers:
 
 **High value loans:** Loans above $1 million sometimes require different credit assessment. Some lenders offer sharper pricing for higher loan amounts. We know which ones to approach.
 
-**Self employed and contract income:** NSW has a large population of self employed professionals, contractors, and gig workers. Lender policies on how they assess this income vary dramatically. At one lender you might be approved for $700,000; at another, $950,000, based on identical financials.
+**Self employed and contract income:** NSW has a large population of self-employed professionals, contractors, and gig workers. Lender policies on how they assess this income vary dramatically. At one lender you might be approved for $700,000; at another, $950,000, based on identical financials.
 
-**Speed in a competitive market:** Sydney auctions and competitive offers require fast pre approval. We typically have pre approval ready within 3 to 5 business days, and we can often coordinate urgent turnarounds with our lender contacts when needed.
+**Speed in a competitive market:** Sydney auctions and competitive offers require fast pre-approval. We typically have pre-approval ready within 3 to 5 business days, and we can often coordinate urgent turnarounds with our lender contacts when needed.
 
 ## Our services in NSW
 
-**First home purchases:** We help first home buyers understand their borrowing power, identify all eligible grants and concessions, and get pre approved so they can bid or offer with confidence.
+**First home purchases:** We help first home buyers understand their borrowing power, identify all eligible grants and concessions, and get pre-approved so they can bid or offer with confidence.
 
 **Refinancing:** If you purchased in NSW during a higher rate environment or your fixed rate is expiring, refinancing could significantly reduce your repayments. The average NSW mortgage is larger than any other state, which means even a small rate improvement delivers substantial monthly savings.
 

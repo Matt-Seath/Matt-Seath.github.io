@@ -21,7 +21,7 @@ The suburb attracts a wide range of buyers. Families are a core group, valuing t
 
 ## Why Working with a Local Broker Matters
 
-The Macgregor property market moves at a pace that rewards preparation. Properties in good condition and at the right price point can attract multiple offers within days. Having a local mortgage broker means you can get your finance sorted before you attend your first inspection. A broker based in the area also brings practical knowledge about Macgregor's property types, price ranges, and the lending products that suit different scenarios. Whether you need a construction loan for a knockdown rebuild, an investment loan with an offset account, or a straightforward owner occupier package, a local broker can match you with the right product efficiently.
+The Macgregor property market moves at a pace that rewards preparation. Properties in good condition and at the right price point can attract multiple offers within days. Having a local mortgage broker means you can get your finance sorted before you attend your first inspection. A broker based in the area also brings practical knowledge about Macgregor's property types, price ranges, and the lending products that suit different scenarios. Whether you need a construction loan for a knockdown rebuild, an investment loan with an offset account, or a straightforward owner-occupier package, a local broker can match you with the right product efficiently.
 
 ## Why Choose Auri Finance?
 

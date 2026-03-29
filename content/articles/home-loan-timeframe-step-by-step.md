@@ -28,7 +28,7 @@ This is a free, no obligation conversation, either in person, over the phone, or
 
 **Duration: Typically 1 to 5 business days after submission**
 
-Once we have identified the right lender and product, we submit a preapproval application. This gives you a conditional approval for a set borrowing amount, so you can shop for property with confidence.
+Once we have identified the right lender and product, we submit a pre-approval application. This gives you a conditional approval for a set borrowing amount, so you can shop for property with confidence.
 
 **What you will need to provide:**
 
@@ -44,7 +44,7 @@ Preapproval typically lasts 3 to 6 months, depending on the lender.
 
 **Duration: Days to months, this is up to you**
 
-With preapproval in hand, you can attend inspections, make offers, and bid at auctions knowing your budget. This step is entirely in your control.
+With pre-approval in hand, you can attend inspections, make offers, and bid at auctions knowing your budget. This step is entirely in your control.
 
 ## Step 4: Formal Application (1 to 3 Days to Prepare)
 
@@ -109,15 +109,15 @@ The settlement date is usually set in the contract of sale, typically 30 to 42 d
 | Slow lender turnaround times | Your broker can recommend faster lenders |
 | Property valuation issues | Ensure the property is accessible for the valuer |
 | Additional information requests | Respond to lender queries promptly |
-| Complex income structures (self employed, casual, etc.) | Prepare tax returns and financials ahead of time |
+| Complex income structures (self-employed, casual, etc.) | Prepare tax returns and financials ahead of time |
 
 ## Tips to Keep Things Moving Quickly
 
-- **Get preapproval first**: This avoids delays when you find a property
+- **Get pre-approval first**: This avoids delays when you find a property
 - **Have your documents ready**: Gather payslips, bank statements, and ID early
 - **Respond to requests promptly**: If the lender asks for additional info, the faster you respond, the faster they process
 - **Use a broker**: We know which lenders are fast and which are slow, and we manage the process to keep things on track
 
 ## How Auri Finance Keeps You on Track
 
-We provide regular updates throughout the process so you always know where things stand. From preapproval to settlement, we are with you every step of the way.
+We provide regular updates throughout the process so you always know where things stand. From pre-approval to settlement, we are with you every step of the way.

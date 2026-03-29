@@ -75,7 +75,7 @@ While cashback can offset refinancing costs (discharge fees, registration fees, 
 
 ### Tax Implications
 
-For owner occupiers, cashback is generally not considered taxable income. However, for investment property loans, the ATO may treat the cashback as assessable income. Speak to your accountant about your specific situation.
+For owner-occupiers, cashback is generally not considered taxable income. However, for investment property loans, the ATO may treat the cashback as assessable income. Speak to your accountant about your specific situation.
 
 ## When a Cashback Offer Is Worth It
 

@@ -21,7 +21,7 @@ Families are the dominant buyer group here, attracted by the combination of larg
 
 ## Why a Nearby Mortgage Broker Matters
 
-Having a mortgage broker who knows Sunnybank Hills means you benefit from someone who understands local property values, buyer competition, and the nuances of this particular market. A nearby broker can meet with you face to face at a convenient location, respond quickly to time sensitive opportunities, and provide guidance that goes beyond generic online calculators. When you are competing for a property in a popular suburb, having your finance pre approved and ready to go gives you a meaningful advantage. A local broker can help ensure your application is structured to move quickly.
+Having a mortgage broker who knows Sunnybank Hills means you benefit from someone who understands local property values, buyer competition, and the nuances of this particular market. A nearby broker can meet with you face to face at a convenient location, respond quickly to time sensitive opportunities, and provide guidance that goes beyond generic online calculators. When you are competing for a property in a popular suburb, having your finance pre-approved and ready to go gives you a meaningful advantage. A local broker can help ensure your application is structured to move quickly.
 
 ## Why Choose Auri Finance?
 

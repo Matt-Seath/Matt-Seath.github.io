@@ -17,11 +17,11 @@ From the moment we submit your application, you will never be left wondering wha
 
 ### Preapproval Stage
 
-Once your preapproval is submitted, we will let you know:
+Once your pre-approval is submitted, we will let you know:
 
 - Confirmation that your application has been received by the lender
 - If the lender has any questions or needs additional documents
-- When your preapproval has been issued and what it means
+- When your pre-approval has been issued and what it means
 
 ### Formal Application Stage
 
