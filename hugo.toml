@@ -63,7 +63,3 @@ enableRobotsTXT = true
     name = 'Articles'
     url = '/articles/'
     weight = 4
-  [[menu.main]]
-    name = 'Locations'
-    url = '/locations/'
-    weight = 5
