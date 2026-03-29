@@ -3,7 +3,7 @@ title: 'Can You Refinance to Pay ATO Debt or Credit Card Debt?'
 date: 2026-03-14
 draft: false
 description: 'In many cases, refinancing your home loan can help pay out ATO tax debt or consolidate credit card balances into a single, lower rate repayment.'
-tags: ['Refinance', 'Debt Consolidation', 'Self-Employed', 'Cash Flow']
+tags: ['Refinance', 'Debt Consolidation', 'Self Employed', 'Cash Flow']
 image: '/images/posts/refinancing.webp'
 ---
 
@@ -13,7 +13,7 @@ If you have built equity in your property, it may be possible to refinance your 
 
 This strategy is commonly used by:
 
-- Self-employed business owners
+- Self employed business owners
 - Contractors with tax liabilities
 - Investors managing multiple financial commitments
 - Borrowers facing ATO payment pressure
@@ -66,7 +66,7 @@ When unsecured debts such as credit cards or tax debt are added to a mortgage, t
 Borrowers should carefully consider:
 
 - Whether the new loan structure is sustainable
-- The long-term repayment strategy
+- The long term repayment strategy
 - Avoiding future debt accumulation
 
 A well structured refinance should focus on long term financial stability, not just short term relief.

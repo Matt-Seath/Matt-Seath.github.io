@@ -1,6 +1,7 @@
 ---
 title: 'Mortgage Broker Eight Mile Plains'
 description: 'Need a mortgage broker in Eight Mile Plains QLD 4113? Auri Finance is based nearby and helps local buyers, investors, and refinancers find the right home loan.'
+draft: true
 suburb: 'eight-mile-plains'
 state: 'qld'
 layout: 'suburb'
