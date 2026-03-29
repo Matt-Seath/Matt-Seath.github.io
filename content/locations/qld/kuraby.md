@@ -37,4 +37,4 @@ A local mortgage broker can prepare you with a clear borrowing capacity, help yo
 
 ## Auri Finance serves Kuraby
 
-Auri Finance is based near Sunnybank, right next door to Kuraby. As your local mortgage broker, we are deeply familiar with the property landscape in this part of Brisbane. Whether you are a first home buyer taking your initial step onto the property ladder, a family looking to settle in a great neighbourhood, or an investor seeking strong returns, we are here to help. Contact Auri Finance today and let us find the right loan for your Kuraby property goals.
+Auri Finance is based in Coopers Plains, right next door to Kuraby. As your local mortgage broker, we are deeply familiar with the property landscape in this part of Brisbane. Whether you are a first home buyer taking your initial step onto the property ladder, a family looking to settle in a great neighbourhood, or an investor seeking strong returns, we are here to help. Contact Auri Finance today and let us find the right loan for your Kuraby property goals.

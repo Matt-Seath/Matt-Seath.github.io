@@ -25,7 +25,7 @@ Having a mortgage broker who knows Sunnybank Hills means you benefit from someon
 
 ## Why Choose Auri Finance?
 
-Auri Finance is based near Sunnybank, just minutes from Sunnybank Hills. We specialise in helping local buyers and investors find the right home loan from a broad panel of lenders. Whether you are purchasing your first property, upgrading to a larger family home, or adding to your investment portfolio, we tailor our recommendations to your specific goals and financial circumstances.
+Auri Finance is based in Coopers Plains, just minutes from Sunnybank Hills. We specialise in helping local buyers and investors find the right home loan from a broad panel of lenders. Whether you are purchasing your first property, upgrading to a larger family home, or adding to your investment portfolio, we tailor our recommendations to your specific goals and financial circumstances.
 
 We handle the research, paperwork, and lender negotiations so you can focus on finding the right property. Our service comes at no cost to you as the borrower, because lenders pay us a commission when your loan settles.
 

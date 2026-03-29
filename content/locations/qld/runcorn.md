@@ -25,7 +25,7 @@ Purchasing property in Runcorn often involves moving quickly, especially at the 
 
 ## Why Choose Auri Finance?
 
-Auri Finance is based near Sunnybank, just a short drive from Runcorn. We work with buyers and investors across the local area every day, so we understand the Runcorn market and the financial products that align with it. Our team compares options from a wide panel of lenders to find a loan that fits your budget, goals, and timeline.
+Auri Finance is based in Coopers Plains, just a short drive from Runcorn. We work with buyers and investors across the local area every day, so we understand the Runcorn market and the financial products that align with it. Our team compares options from a wide panel of lenders to find a loan that fits your budget, goals, and timeline.
 
 From your first enquiry through to settlement, we manage the process and keep you informed at every stage. There is no charge for our service to borrowers. Lenders pay our commission once your loan is finalised.
 

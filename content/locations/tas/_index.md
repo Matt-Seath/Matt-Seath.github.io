@@ -6,7 +6,7 @@ state: 'tas'
 layout: 'state'
 ---
 
-Auri Finance is a mortgage broker based in Sunnybank, Brisbane that helps Tasmanian buyers, investors, and refinancers find the right home loan. Whether you are purchasing in Hobart, Launceston, Devonport, or one of Tasmania's many charming regional towns, we compare options from more than 40 lenders to find a loan that fits your needs.
+Auri Finance is a mortgage broker based in Coopers Plains, Brisbane that helps Tasmanian buyers, investors, and refinancers find the right home loan. Whether you are purchasing in Hobart, Launceston, Devonport, or one of Tasmania's many charming regional towns, we compare options from more than 40 lenders to find a loan that fits your needs.
 
 Tasmania may be across Bass Strait from the mainland, but our digital first service model means geography is irrelevant. We conduct consultations by phone and video, handle documents through secure online portals, and guide you through every stage of the loan process from the comfort of your own home.
 

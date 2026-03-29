@@ -1,12 +1,12 @@
 ---
 title: 'Mortgage Broker QLD'
-description: 'Looking for a mortgage broker in Queensland? Auri Finance is based in Sunnybank, Brisbane and helps QLD buyers, investors, and refinancers find the right home loan.'
+description: 'Looking for a mortgage broker in Queensland? Auri Finance is based in Coopers Plains, Brisbane and helps QLD buyers, investors, and refinancers find the right home loan.'
 draft: true
 state: 'qld'
 layout: 'state'
 ---
 
-Auri Finance is a Queensland based mortgage broker operating from Sunnybank in South Brisbane. We help home buyers, property investors, and homeowners looking to refinance across the entire state.
+Auri Finance is a Queensland based mortgage broker operating from Coopers Plains in South Brisbane. We help home buyers, property investors, and homeowners looking to refinance across the entire state.
 
 Queensland continues to attract buyers from interstate, particularly from New South Wales and Victoria, drawn by more affordable property prices and a lifestyle that is hard to match. Whether you are purchasing in inner Brisbane, the Gold Coast, Sunshine Coast, or regional Queensland, we compare options from over 40 lenders to find a loan that fits your situation.
 
@@ -52,7 +52,7 @@ Banks offer their own products. A broker compares across 40+ lenders to find the
 
 ## Suburbs we serve in South Brisbane
 
-Our office is located near Sunnybank, and we regularly work with clients across Brisbane's south side. We know the local property market well and can help buyers and investors in these areas:
+Our office is located in Coopers Plains, and we regularly work with clients across Brisbane's south side. We know the local property market well and can help buyers and investors in these areas:
 
 **Sunnybank and surrounds:** Sunnybank (4109), Sunnybank Hills (4109), and Robertson (4109) form the heart of Brisbane's multicultural south side. Properties range from established family homes to modern townhouses, with strong demand from owner-occupiers and investors. Sunnybank Plaza and Market Square are key local hubs, and the area is well connected by bus routes to the CBD and surrounding suburbs.
 

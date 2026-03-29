@@ -25,7 +25,7 @@ Buying in Algester often means competing with other buyers who recognise the sub
 
 ## Why Choose Auri Finance?
 
-Auri Finance is based near Sunnybank, a short distance from Algester. We serve buyers, investors, and refinancers throughout Brisbane's southern suburbs and have a thorough understanding of the Algester market. When you come to us, we take the time to assess your financial position, discuss your property goals, and search our extensive lender panel for the best available options.
+Auri Finance is based in Coopers Plains, a short distance from Algester. We serve buyers, investors, and refinancers throughout Brisbane's southern suburbs and have a thorough understanding of the Algester market. When you come to us, we take the time to assess your financial position, discuss your property goals, and search our extensive lender panel for the best available options.
 
 Our service is completely free for borrowers. Lenders pay our commission after your loan settles, so there is no out of pocket cost to you.
 

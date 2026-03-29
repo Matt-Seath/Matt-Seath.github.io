@@ -6,7 +6,7 @@ state: 'wa'
 layout: 'state'
 ---
 
-Auri Finance is a mortgage broker based in Sunnybank, Brisbane that works with clients across Western Australia. Whether you are purchasing a home in Perth, a lifestyle property in the South West, or an investment in a regional mining town, we help you compare loans from more than 40 lenders to find the right fit.
+Auri Finance is a mortgage broker based in Coopers Plains, Brisbane that works with clients across Western Australia. Whether you are purchasing a home in Perth, a lifestyle property in the South West, or an investment in a regional mining town, we help you compare loans from more than 40 lenders to find the right fit.
 
 Western Australia operates in a different time zone to our Brisbane office, but that has never been a barrier for our clients. Our digital first approach means we schedule consultations at times that suit you, and all documentation is handled through secure online platforms. The process is smooth, efficient, and entirely remote.
 

@@ -25,7 +25,7 @@ In a competitive market like Robertson, preparation is everything. Having your f
 
 ## Why Choose Auri Finance?
 
-Auri Finance is based near Sunnybank, placing us right in Robertson's neighbourhood. We help buyers, investors, and refinancers across the local area find home loans that genuinely fit their needs. Our approach is simple: we listen to your goals, compare products from a wide range of lenders, and recommend the option that offers the best combination of rate, features, and flexibility for your situation.
+Auri Finance is based in Coopers Plains, placing us right in Robertson's neighbourhood. We help buyers, investors, and refinancers across the local area find home loans that genuinely fit their needs. Our approach is simple: we listen to your goals, compare products from a wide range of lenders, and recommend the option that offers the best combination of rate, features, and flexibility for your situation.
 
 We guide you through the entire process, from initial assessment to settlement, and we do not charge borrowers for our service. The lender pays our commission when your loan goes through.
 

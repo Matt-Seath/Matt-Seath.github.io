@@ -37,4 +37,4 @@ We compare loan products from a wide panel of lenders to find the best fit for y
 
 ## Auri Finance serves Acacia Ridge
 
-Auri Finance is based near Sunnybank, making us a truly local broker for Acacia Ridge buyers and investors. We understand the 4110 postcode and the opportunities it presents. Our team is ready to help you secure competitive finance, whether you are stepping into the market for the first time, adding to your property portfolio, or looking to refinance an existing loan. Contact Auri Finance today and let us put our local expertise to work for your Acacia Ridge property plans.
+Auri Finance is based in Coopers Plains, making us a truly local broker for Acacia Ridge buyers and investors. We understand the 4110 postcode and the opportunities it presents. Our team is ready to help you secure competitive finance, whether you are stepping into the market for the first time, adding to your property portfolio, or looking to refinance an existing loan. Contact Auri Finance today and let us put our local expertise to work for your Acacia Ridge property plans.

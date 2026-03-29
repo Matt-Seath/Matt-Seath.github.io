@@ -6,7 +6,7 @@ state: 'act'
 layout: 'state'
 ---
 
-Auri Finance is a mortgage broker based in Sunnybank, Brisbane that serves clients in the Australian Capital Territory. Whether you are buying in Canberra's inner suburbs, new developments in Molonglo or Gungahlin, or looking to invest in the ACT rental market, we compare loans from over 40 lenders to find the right solution for you.
+Auri Finance is a mortgage broker based in Coopers Plains, Brisbane that serves clients in the Australian Capital Territory. Whether you are buying in Canberra's inner suburbs, new developments in Molonglo or Gungahlin, or looking to invest in the ACT rental market, we compare loans from over 40 lenders to find the right solution for you.
 
 Our digital first model makes working with an interstate broker effortless. We conduct consultations via phone and video, process your documents securely online, and keep you informed at every milestone. Canberra buyers receive the same thorough, personalised service as our local Brisbane clients.
 

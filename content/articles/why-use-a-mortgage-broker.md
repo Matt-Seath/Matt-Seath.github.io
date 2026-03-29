@@ -87,4 +87,4 @@ This growth reflects the fact that borrowers who use brokers generally access mo
 
 At Auri Finance, we are committed to finding you the right loan, not just the easiest one to process. We compare products from over 40 lenders and take the time to understand your goals, whether you are buying your first home, refinancing for a better deal, or building a property portfolio.
 
-Based in Sunnybank, Brisbane, we serve clients across Queensland and Australia. Our service is free, and we are with you every step of the way.
+Based in Coopers Plains, Brisbane, we serve clients across Queensland and Australia. Our service is free, and we are with you every step of the way.

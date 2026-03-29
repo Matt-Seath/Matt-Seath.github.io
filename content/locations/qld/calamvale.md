@@ -25,7 +25,7 @@ Calamvale's property market has a lot of variety, and choosing the right loan fo
 
 ## Why Choose Auri Finance?
 
-Auri Finance is based near Sunnybank, just minutes from Calamvale. We have been helping buyers and investors in the southern suburbs find the right home loan, and we bring that local experience to every client conversation. Our team compares products from a wide range of lenders, including major banks, smaller lenders, and specialist providers, to find the option that best suits your needs.
+Auri Finance is based in Coopers Plains, just minutes from Calamvale. We have been helping buyers and investors in the southern suburbs find the right home loan, and we bring that local experience to every client conversation. Our team compares products from a wide range of lenders, including major banks, smaller lenders, and specialist providers, to find the option that best suits your needs.
 
 We walk you through every step of the process and handle the lender communication on your behalf. Our service costs you nothing as a borrower because lenders pay our commission once your loan settles.
 

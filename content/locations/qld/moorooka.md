@@ -37,4 +37,4 @@ We also help you understand your full borrowing capacity, compare rates and feat
 
 ## Auri Finance serves Moorooka
 
-Auri Finance is based near Sunnybank, a short drive from Moorooka. We are proud to help buyers and investors across Brisbane's inner south, and Moorooka is one of the suburbs we know best. Whether you are buying your first home, chasing a character renovation project, or investing for the future, our team is here to find the right loan for you. Reach out to Auri Finance today to discuss your plans in Moorooka.
+Auri Finance is based in Coopers Plains, a short drive from Moorooka. We are proud to help buyers and investors across Brisbane's inner south, and Moorooka is one of the suburbs we know best. Whether you are buying your first home, chasing a character renovation project, or investing for the future, our team is here to find the right loan for you. Reach out to Auri Finance today to discuss your plans in Moorooka.

@@ -6,7 +6,7 @@ state: 'sa'
 layout: 'state'
 ---
 
-Auri Finance is a mortgage broker based in Sunnybank, Brisbane that helps clients across South Australia secure the right home loan. Whether you are buying in Adelaide, the Adelaide Hills, the Barossa Valley, or anywhere else in SA, we compare loans from over 40 lenders to find an option that works for your circumstances.
+Auri Finance is a mortgage broker based in Coopers Plains, Brisbane that helps clients across South Australia secure the right home loan. Whether you are buying in Adelaide, the Adelaide Hills, the Barossa Valley, or anywhere else in SA, we compare loans from over 40 lenders to find an option that works for your circumstances.
 
 Distance is never a barrier when you work with us. Our digital first model means your experience is the same whether you are in Glenelg or Gawler. Initial consultations, document collection, lender submissions, and progress updates are all handled through phone, video, and secure online channels.
 

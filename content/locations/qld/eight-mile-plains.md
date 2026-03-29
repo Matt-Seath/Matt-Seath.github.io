@@ -35,4 +35,4 @@ We also know which lenders are comfortable with the Eight Mile Plains postcode a
 
 ## Auri Finance serves Eight Mile Plains
 
-Auri Finance is based near Sunnybank, making us one of the closest brokerages to Eight Mile Plains. We work with buyers and investors across the 4113 postcode every day and understand what it takes to secure finance in this competitive part of Brisbane's south. Reach out today and let us help you find the right home loan for your next purchase or refinance in Eight Mile Plains.
+Auri Finance is based in Coopers Plains, making us one of the closest brokerages to Eight Mile Plains. We work with buyers and investors across the 4113 postcode every day and understand what it takes to secure finance in this competitive part of Brisbane's south. Reach out today and let us help you find the right home loan for your next purchase or refinance in Eight Mile Plains.

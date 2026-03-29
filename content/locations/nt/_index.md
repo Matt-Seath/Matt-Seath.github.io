@@ -6,7 +6,7 @@ state: 'nt'
 layout: 'state'
 ---
 
-Auri Finance is a mortgage broker based in Sunnybank, Brisbane that helps clients across the Northern Territory find the right home loan. Whether you are buying in Darwin, Palmerston, Alice Springs, or one of the Territory's remote communities, we compare options from more than 40 lenders to secure a loan that suits your situation.
+Auri Finance is a mortgage broker based in Coopers Plains, Brisbane that helps clients across the Northern Territory find the right home loan. Whether you are buying in Darwin, Palmerston, Alice Springs, or one of the Territory's remote communities, we compare options from more than 40 lenders to secure a loan that suits your situation.
 
 The NT is one of Australia's most unique property markets, and finding a lender who understands its nuances matters. Our digital first approach means you get access to a broad lending panel and personalised service regardless of where you are in the Territory. Consultations are handled by phone and video, and all documents are processed through secure online platforms.
 

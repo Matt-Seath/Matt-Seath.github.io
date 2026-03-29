@@ -35,4 +35,4 @@ Working with a broker rather than going directly to one bank means you benefit f
 
 ## Auri Finance serves Stretton
 
-Auri Finance is based near Sunnybank, just minutes from Stretton. As a local brokerage, we understand the southern Brisbane property market inside and out. Whether you are a first home buyer entering the market, a family upgrading to a bigger home, or an investor building your portfolio, we can help you find the right loan and guide you through the entire process. Get in touch today to see how we can help with your Stretton property purchase or refinance.
+Auri Finance is based in Coopers Plains, just minutes from Stretton. As a local brokerage, we understand the southern Brisbane property market inside and out. Whether you are a first home buyer entering the market, a family upgrading to a bigger home, or an investor building your portfolio, we can help you find the right loan and guide you through the entire process. Get in touch today to see how we can help with your Stretton property purchase or refinance.

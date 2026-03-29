@@ -37,4 +37,4 @@ A mortgage broker with local knowledge can steer you toward the lenders best sui
 
 ## Auri Finance serves Coopers Plains
 
-Auri Finance is based near Sunnybank, just a few minutes from Coopers Plains. We regularly help buyers and investors in the 4108 postcode secure competitive home loans. Whether you are purchasing your first property, upgrading to a family home, or expanding your investment portfolio, our team is ready to guide you through every step. Get in touch with Auri Finance to start your property journey in Coopers Plains.
+Auri Finance is based in Coopers Plains, just a few minutes from Coopers Plains. We regularly help buyers and investors in the 4108 postcode secure competitive home loans. Whether you are purchasing your first property, upgrading to a family home, or expanding your investment portfolio, our team is ready to guide you through every step. Get in touch with Auri Finance to start your property journey in Coopers Plains.

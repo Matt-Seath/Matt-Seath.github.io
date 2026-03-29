@@ -25,7 +25,7 @@ The Macgregor property market moves at a pace that rewards preparation. Properti
 
 ## Why Choose Auri Finance?
 
-Auri Finance is based near Sunnybank, making Macgregor part of our core service area. We work with local buyers, investors, and homeowners looking to refinance every week, so we have a detailed understanding of the suburb and its market. Our process involves getting to know your financial position and goals, then searching across a wide lender panel to find the most suitable loan for you.
+Auri Finance is based in Coopers Plains, making Macgregor part of our core service area. We work with local buyers, investors, and homeowners looking to refinance every week, so we have a detailed understanding of the suburb and its market. Our process involves getting to know your financial position and goals, then searching across a wide lender panel to find the most suitable loan for you.
 
 We manage the application from start to finish and keep you updated throughout. Our service is free to borrowers because lenders pay our commission once your loan settles.
 

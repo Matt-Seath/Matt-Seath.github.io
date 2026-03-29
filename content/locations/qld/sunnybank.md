@@ -7,7 +7,7 @@ state: 'qld'
 layout: 'suburb'
 ---
 
-Auri Finance is based near Sunnybank, making us one of the few mortgage brokers with genuine local presence in the area. We help Sunnybank residents and buyers with home purchases, refinancing, investment loans, and SMSF lending.
+Auri Finance is based in Coopers Plains, making us one of the few mortgage brokers with genuine local presence in the area. We help Sunnybank residents and buyers with home purchases, refinancing, investment loans, and SMSF lending.
 
 ## Buying property in Sunnybank
 
