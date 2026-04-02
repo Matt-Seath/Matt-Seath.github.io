@@ -13,19 +13,19 @@ Interest rates are one of the most important factors in your home loan. Even a s
 
 When you borrow money to buy a home, you repay the principal (the amount borrowed) plus interest (the cost of borrowing). Most home loans in Australia charge interest daily and debit it monthly.
 
-For example, on a $500,000 loan at 6.14% p.a. over 30 years:
+For example, on a $500,000 loan at 6.00% p.a. over 30 years:
 
-- Monthly repayment: approximately $3,044
-- Total interest paid: approximately $596,000
-- Total amount repaid: approximately $1,096,000
+- Monthly repayment: approximately $2,998
+- Total interest paid: approximately $579,000
+- Total amount repaid: approximately $1,079,000
 
 That means you end up paying more in interest than the original amount you borrowed, which is why even a small rate reduction can make an enormous difference over time.
 
 ## The RBA Cash Rate and Why It Matters
 
-The Reserve Bank of Australia (RBA) sets the official cash rate, which is the benchmark interest rate for the entire economy. As of early 2026, the RBA cash rate sits at 3.85% following a series of cuts from the peak of 4.35% in late 2024. The RBA cut the cash rate by 25 basis points in February 2025 and has continued to ease monetary policy into 2026 as inflation has moderated.
+The Reserve Bank of Australia (RBA) sets the official cash rate, which is the benchmark interest rate for the entire economy. When the RBA raises or lowers the cash rate, lenders typically adjust their variable home loan rates in the same direction.
 
-When the cash rate moves, lenders typically adjust their variable home loan rates in the same direction. However, lenders do not always pass on the full amount of a rate change, so it pays to keep an eye on what your lender is actually doing.
+However, lenders do not always pass on the full amount of a rate change, so it pays to keep an eye on what your lender is actually doing. You can check the current cash rate on the [RBA website](https://www.rba.gov.au).
 
 ## How Different Rates Affect Your Monthly Repayments
 

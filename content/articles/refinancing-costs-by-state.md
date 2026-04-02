@@ -32,34 +32,17 @@ Many lenders waive application and valuation fees as an incentive for switching,
 
 When you refinance to a new lender, you generally pay two sets of government registration fees: one to remove the old mortgage (discharge) and one to register the new one. These are set by each state and territory.
 
-### Mortgage Registration and Discharge Fees (2025 to 2026)
+### Mortgage Registration and Discharge Fees
 
-| State/Territory | Registration Fee | Discharge Fee | Combined Total |
-|---|---|---|---|
-| New South Wales | ~$172 | ~$172 | ~$344 |
-| Queensland | ~$232 | ~$232 | ~$464 |
-| Victoria | ~$125 | ~$125 | ~$250 |
-| Western Australia | ~$203 | ~$203 | ~$406 |
-| South Australia | ~$187 | ~$187 | ~$374 |
-| Tasmania | ~$152 to $189 | ~$152 to $189 | ~$304 to $378 |
-| ACT | ~$165 to $172 | ~$165 to $172 | ~$330 to $344 |
-| Northern Territory | ~$165 to $172 | ~$165 to $172 | ~$330 to $344 |
+Each state and territory sets its own fees for registering and discharging a mortgage. These typically range from around $100 to $250 per event, meaning you will pay two fees: one to remove the old mortgage and one to register the new one. The combined government fee for both is generally between $250 and $500 depending on your state.
 
-These government fees are statutory and non negotiable, unlike lender fees, which can often be waived or reduced.
+These government fees are statutory and non negotiable, unlike lender fees, which can often be waived or reduced. Your conveyancer or broker can confirm the exact fees for your state.
 
-### Total Refinancing Cost Estimate by State
+### Total Refinancing Cost Estimate
 
-To give you a clearer picture, here is what you might expect to pay in total when refinancing a $500,000 loan (assuming a standard variable rate loan with no break costs and a lender that waives application fees):
+To give you a clearer picture, total refinancing costs for a standard variable rate loan (with no break costs and a lender that waives application fees) typically range from $500 to $1,000 across most states once you factor in government fees, discharge processing, title searches, and settlement agent fees.
 
-| State/Territory | Government Fees | Estimated Other Costs | Total Estimate |
-|---|---|---|---|
-| New South Wales | ~$344 | $250 to $500 | $594 to $844 |
-| Queensland | ~$464 | $250 to $500 | $714 to $964 |
-| Victoria | ~$250 | $250 to $500 | $500 to $750 |
-| Western Australia | ~$406 | $250 to $500 | $656 to $906 |
-| South Australia | ~$374 | $250 to $500 | $624 to $874 |
-
-Other costs include items such as discharge processing fees, title searches, and settlement agent fees. Actual costs will vary depending on your lender and conveyancer.
+Actual costs will vary depending on your state, lender, and conveyancer.
 
 ## Cost Drivers That Can Make Refinancing More Expensive
 

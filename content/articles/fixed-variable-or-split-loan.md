@@ -9,19 +9,13 @@ image: '/images/posts/interest-rates.webp'
 
 Choosing between a fixed, variable, or split home loan rate is one of the biggest decisions you will make when taking out a mortgage. There is no universally right answer. It depends on your financial situation, your risk tolerance, and what you think rates might do in the future.
 
-## Where Are Rates Right Now?
+## How to Compare Current Rates
 
-As of early 2026, the Reserve Bank of Australia (RBA) has been gradually easing the cash rate after the hiking cycle of 2022 to 2023. Here is a snapshot of typical home loan rates available through competitive lenders:
+Home loan rates change regularly in response to the Reserve Bank of Australia's (RBA) cash rate decisions and competition between lenders. At any point in time, the rates available to you will depend on the lender, your loan to value ratio (LVR), and your loan size.
 
-| Rate Type | Typical Range (Owner Occupier, P&I) |
-|---|---|
-| Variable rate | 5.89% to 6.30% |
-| 1 year fixed | 5.69% to 6.10% |
-| 2 year fixed | 5.59% to 6.00% |
-| 3 year fixed | 5.69% to 6.10% |
-| 5 year fixed | 5.99% to 6.40% |
+As a general rule, fixed rates for shorter terms (one to two years) tend to reflect where the market expects rates to head in the near term, while longer fixed terms (three to five years) build in more of a buffer. Variable rates move more directly with the RBA cash rate.
 
-These rates vary by lender, LVR, and loan size. The rates shown are indicative and may change. Your broker can confirm what is available for your situation.
+Your broker can confirm the current rates available for your specific situation.
 
 ## Variable Rate Loans
 
@@ -113,25 +107,19 @@ If you regularly put extra money into your mortgage, variable is more accommodat
 
 If the thought of your repayments increasing by $500 a month keeps you up at night, fixing some or all of your loan may give you peace of mind.
 
-## A Practical Example: $500,000 Loan Over 3 Years
+## A Practical Example
 
-Let us compare the total interest cost of each strategy over a three year period, assuming a 30 year loan term (principal and interest):
+To illustrate, imagine two borrowers with a $500,000 loan over 30 years (principal and interest). One fixes their entire loan, and the other stays on a variable rate that is 0.40% higher.
 
-| Strategy | Rate Assumed | Monthly Repayment | Total Interest Over 3 Years | Total Repaid Over 3 Years |
-|---|---|---|---|---|
-| 100% Variable at 6.10% | 6.10% | ~$3,033 | ~$89,400 | ~$109,188 |
-| 100% Fixed at 5.69% | 5.69% | ~$2,904 | ~$83,100 | ~$104,544 |
-| 50/50 Split (fixed 5.69% / variable 6.10%) | Blended ~5.90% | ~$2,969 | ~$86,250 | ~$106,884 |
-
-**Key takeaway:** On a $500,000 loan, the difference between a competitive fixed rate and a typical variable rate can amount to roughly $4,000 to $6,000 in interest over three years. However, if variable rates drop during that period, the variable option could end up cheaper.
+That 0.40% difference works out to roughly $130 per month, or about $4,700 over three years. However, if the variable rate drops during that period, the variable borrower could end up paying less overall.
 
 ### What If Rates Move?
 
 | Scenario | Variable Rate Outcome | Fixed Rate Outcome |
 |---|---|---|
-| Rates drop 0.50% over 3 years | You save more on variable | You miss out on savings |
-| Rates stay flat | Variable costs more (higher starting rate) | Fixed saves you money |
-| Rates rise 0.50% over 3 years | Variable costs significantly more | Fixed protects you |
+| Rates drop over the fixed term | You save more on variable | You miss out on savings |
+| Rates stay flat | Variable costs more if starting rate is higher | Fixed saves you money |
+| Rates rise over the fixed term | Variable costs significantly more | Fixed protects you |
 
 This is why there is no single right answer. It depends on your view of the future and your tolerance for uncertainty.
 

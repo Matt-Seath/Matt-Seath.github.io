@@ -37,16 +37,9 @@ Prices stabilise and begin to rise again. Early buyers start re entering the mar
 
 ## Where Are Australian Capital Cities Now?
 
-Property markets do not all move in sync. Different cities can be at different points in the cycle at the same time. Here is a general overview of where Australia's major markets sit:
+Property markets do not all move in sync. Different cities can be at different points in the cycle at the same time. The factors that tend to differentiate each market include population growth, housing supply, affordability levels, local economic conditions, and infrastructure investment.
 
-| City | Current Phase (Indicative) | Key Factors |
-|---|---|---|
-| Sydney | Late growth/peaking | Strong population growth, affordability constraints slowing momentum |
-| Melbourne | Recovery/early growth | Recovering from a correction period, improved buyer activity |
-| Brisbane | Growth | Population growth, infrastructure investment, and the 2032 Olympics driving demand |
-| Perth | Growth | Resource sector strength, interstate migration, and relatively affordable pricing |
-| Adelaide | Growth | Continued interstate buyer interest and limited housing supply |
-| Hobart | Recovery | Stabilising after a correction, with affordability returning for some buyers |
+It pays to research the specific market you are buying into rather than relying on national headlines. Your broker, local agents, and property data providers such as CoreLogic and SQM Research can help you understand where your target market sits in the cycle.
 
 ### Brisbane and the 2032 Olympics
 

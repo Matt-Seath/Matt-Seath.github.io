@@ -13,7 +13,7 @@ You have been saving hard and have more than enough for a 20% deposit. Should yo
 
 ### Lower Repayments
 
-The less you borrow, the lower your monthly repayments. On a $600,000 property at a current rate of 6.25% over 30 years:
+The less you borrow, the lower your monthly repayments. On a $600,000 property at 6.25% over 30 years (as an example):
 
 | Deposit | Loan Amount | Monthly Repayment | Total Interest Over 30 Years |
 |---|---|---|---|

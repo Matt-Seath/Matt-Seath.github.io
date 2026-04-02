@@ -29,19 +29,13 @@ While this strategy provides tax benefits, it is important to remember that you 
 
 The opposite of negative gearing: your rental income exceeds your expenses. These properties are harder to find in capital cities but can be more common in regional areas or high yield locations.
 
-To give you a sense of what gross rental yields look like across Australia, here is a snapshot:
+Rental yields vary significantly depending on where and what you buy. As a general guide:
 
-| City/Region | Typical Gross Yield (Houses) | Typical Gross Yield (Units) |
-|---|---|---|
-| Sydney | 2.5% to 3.5% | 3.5% to 4.5% |
-| Melbourne | 2.8% to 3.5% | 4.0% to 5.0% |
-| Brisbane | 3.5% to 4.5% | 4.5% to 5.5% |
-| Perth | 3.5% to 4.5% | 4.5% to 5.5% |
-| Adelaide | 3.5% to 4.5% | 4.5% to 5.5% |
-| Hobart | 3.5% to 4.5% | 4.0% to 5.0% |
-| Regional centres | 4.5% to 7.0%+ | 5.0% to 7.0%+ |
+- **Capital city houses** tend to offer lower gross yields, often in the range of 2.5% to 4.5%, but stronger long term capital growth
+- **Capital city units** typically yield slightly more than houses in the same location
+- **Regional centres** often offer the highest gross yields but may come with higher vacancy risk and less predictable capital growth
 
-Higher yields are typically found in regional areas and outer suburban locations, while inner city properties tend to offer lower yields but stronger capital growth.
+Yields change over time as rents and property values move, so always check current data for your target area using sources like CoreLogic, SQM Research, or your property manager.
 
 **Best for**: Investors who want their property to pay for itself from day one.
 

@@ -40,7 +40,7 @@ Work backwards from the property price you are aiming for. Knowing exactly how m
 
 ### 2. Open a Dedicated Savings Account
 
-Keep your deposit separate from your everyday spending in a high interest savings account. Many Australian banks offer bonus saver accounts paying 5.00% to 5.50% when you meet monthly deposit conditions. Out of sight, out of mind, and earning interest.
+Keep your deposit separate from your everyday spending in a high interest savings account. Many Australian banks offer bonus saver accounts with competitive rates when you meet monthly deposit conditions. Out of sight, out of mind, and earning interest.
 
 ### 3. Automate Your Savings
 
@@ -63,15 +63,15 @@ The FHSS is one of the most powerful tools available to first home buyers. It al
 
 **Key details of the FHSS:**
 
-- **Maximum voluntary contributions**: $15,000 per financial year
-- **Total maximum withdrawable**: $50,000 in total contributions
-- **Contribution types**: You can make concessional (before tax, salary sacrifice) or non concessional (after tax) contributions
-- **Tax advantage**: Concessional contributions are taxed at 15% inside super rather than your marginal tax rate, which could be 30% to 45%
-- **Withdrawal**: Concessional contributions are released with deemed earnings (based on the shortfall interest charge rate, currently around 4.96%)
+- **Voluntary contributions**: You can make concessional (before tax, salary sacrifice) or non concessional (after tax) contributions up to annual and total limits set by the government
+- **Tax advantage**: Concessional contributions are taxed at 15% inside super rather than your marginal tax rate, which could be significantly higher
+- **Withdrawal**: Concessional contributions are released with deemed earnings based on a rate set by the ATO
+
+The contribution limits and deemed earnings rate are updated periodically, so check the [ATO website](https://www.ato.gov.au) for the latest figures.
 
 **How the tax benefit works:**
 
-If you earn $85,000 and salary sacrifice $15,000 into super under the FHSS, that $15,000 is taxed at 15% ($2,250) rather than your marginal rate of 32.5% ($4,875). You save $2,625 in tax in just one year. Over three years of maximum contributions, the tax savings alone can add up to $5,000 to $8,000 depending on your income.
+If you are on a marginal tax rate above 15%, every dollar you salary sacrifice into super under the FHSS is taxed at 15% instead of your higher rate. Over several years of maximum contributions, the tax savings alone can add up to thousands of dollars depending on your income.
 
 **Important:** To use the FHSS, you must apply to the ATO for a determination and then request a release of funds before signing a contract to purchase. Make sure you understand the process and timing requirements.
 
@@ -79,8 +79,8 @@ If you earn $85,000 and salary sacrifice $15,000 into super under the FHSS, that
 
 Depending on your state and whether you are buying new or established, you may be eligible for:
 
-- **First Home Owner Grant**: Up to $30,000 in some states for new builds (for example, $30,000 in Queensland for new homes valued up to $750,000)
-- **Stamp duty concessions**: Reduced or waived stamp duty for first home buyers (in Queensland, no transfer duty on homes up to $700,000 for first home buyers)
+- **First Home Owner Grant (FHOG)**: Available in most states for eligible new home purchases, with grant amounts and property value caps varying by state. Check your state's revenue office for current details
+- **Stamp duty concessions**: Reduced or waived stamp duty for first home buyers in most states, with eligibility thresholds varying by location
 - **Home Guarantee Scheme**: Buy with as little as 5% deposit with no LMI
 
 ### 7. Pick Up Extra Income
@@ -105,15 +105,14 @@ Here is an example for someone earning $85,000 who wants to buy a $600,000 home 
 
 | Source | Amount |
 |---|---|
-| Regular savings ($400/week for 3 years at 5%) | ~$68,000 |
-| FHSS contributions ($15,000/year for 3 years, after tax benefit) | ~$42,000 |
-| First Home Owner Grant (QLD, new build) | $30,000 |
-| **Total available** | **~$140,000** |
+| Regular savings ($400/week for 3 years) | ~$62,400+ (plus interest) |
+| FHSS contributions (max per year for 3 years, after tax benefit) | Varies by contribution limits |
+| First Home Owner Grant (if eligible) | Varies by state |
+| **Total available** | **Potentially well above your deposit target** |
 | Less deposit needed (10%) | $60,000 |
 | Less stamp duty and costs (~4%) | ~$24,000 |
-| **Surplus / buffer** | **~$56,000** |
 
-This example assumes a new build in Queensland to maximise grant eligibility. The FHSS and government grants can dramatically shorten your savings timeline.
+The exact figures depend on current FHSS limits, your state's FHOG amount, and applicable stamp duty concessions. The key takeaway is that combining regular savings, the FHSS, and government grants can dramatically shorten your savings timeline. Your broker can help you model the numbers for your specific situation.
 
 ## How Auri Finance Can Help
 

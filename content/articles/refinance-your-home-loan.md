@@ -2,7 +2,7 @@
 title: 'Refinance Your Home Loan'
 date: 2026-03-28
 draft: false
-description: 'Reduce your repayments or unlock equity. Rates from 5.6% p.a.'
+description: 'Reduce your repayments or unlock equity. Compare competitive rates from over 40 lenders.'
 tags: ['Refinance', 'Home Loan', 'Equity', 'Savings']
 image: '/images/posts/what-is-a-mortgage-check-up-and-why-is-it-important.webp'
 ---

@@ -34,10 +34,10 @@ Let us say you earn $90,000 per year (before tax) and have no existing debts. He
 - **Estimated borrowing capacity**: Approximately $550,000
 - **Deposit saved**: $60,000 (just under 11% of purchase price)
 - **Target purchase price**: $550,000
-- **Stamp duty (first home buyer in QLD)**: Approximately $10,000 (with concession)
+- **Stamp duty**: Varies by state (first home buyer concessions may apply)
 - **Other purchase costs**: Approximately $3,000 (conveyancing, inspections, searches)
-- **Total funds needed**: Approximately $73,000
-- **Shortfall or surplus**: With $60,000 saved, you would need a small top up, or you could use the Home Guarantee Scheme with a 5% deposit ($27,500) and put the remaining funds towards stamp duty and costs
+- **Total funds needed**: Deposit plus stamp duty and costs (your broker can model the exact figure)
+- **Options**: With $60,000 saved, you could use the Home Guarantee Scheme with a 5% deposit ($27,500) and put the remaining funds towards stamp duty and costs
 
 This example shows that a single buyer on $90,000 can realistically purchase an apartment or townhouse in many Australian suburbs.
 
@@ -59,7 +59,7 @@ You do not need to buy your dream home first. Many single buyers start with an a
 
 Single buyers are fully eligible for all first home buyer incentives:
 
-- **First Home Owner Grant**: Available in most states for eligible new home purchases (in QLD, this is $30,000 for new homes valued under $750,000)
+- **First Home Owner Grant**: Available in most states for eligible new home purchases, with grant amounts and property value caps varying by state
 - **Home Guarantee Scheme**: Buy with as little as 5% deposit without paying LMI. Places are allocated specifically for single buyers, with property price caps varying by location
 - **Stamp duty concessions**: Reduced or waived in many states for first home buyers
 - **First Home Super Saver Scheme**: Salary sacrifice into super and withdraw for your deposit with tax benefits, allowing you to save faster using pre tax income

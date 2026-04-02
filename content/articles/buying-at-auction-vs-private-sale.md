@@ -13,7 +13,7 @@ When buying property in Australia, you will generally encounter two methods of s
 
 At an auction, buyers bid openly against each other on a set date. The property goes to the highest bidder once the reserve price (the seller's minimum acceptable price) is met.
 
-Auction activity varies across Australian capital cities. In early 2026, national auction clearance rates have been hovering around 60% to 65%, with Sydney and Melbourne typically seeing the highest volumes. Brisbane clearance rates have been trending between 45% and 55%, reflecting a market that leans more heavily toward private treaty sales than the southern capitals.
+Auction activity varies across Australian capital cities. Sydney and Melbourne typically see the highest auction volumes, while markets like Brisbane and Perth lean more heavily toward private treaty sales. Auction clearance rates fluctuate with market conditions, so checking recent results on property data sites like CoreLogic or Domain can give you a sense of the current market temperature.
 
 ### Key Features of Buying at Auction
 

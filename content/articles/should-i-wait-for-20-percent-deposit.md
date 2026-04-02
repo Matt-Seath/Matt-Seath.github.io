@@ -98,14 +98,14 @@ First home buyer grants, stamp duty concessions, and schemes like the Home Guara
 
 ## The Home Guarantee Scheme
 
-The Australian Government's Home Guarantee Scheme allows eligible first home buyers to purchase with as little as 5% deposit without paying LMI. The government guarantees the difference between your deposit and the 20% threshold. Key details:
+The Australian Government's Home Guarantee Scheme allows eligible first home buyers to purchase with as little as 5% deposit without paying LMI. The government guarantees the difference between your deposit and the 20% threshold. The scheme includes several streams:
 
-- **First Home Guarantee**: 35,000 places per financial year for first home buyers (5% deposit minimum)
-- **Regional First Home Buyer Guarantee**: 10,000 places per year for regional buyers
-- **Family Home Guarantee**: 5,000 places per year for single parents and eligible single legal guardians (2% deposit minimum)
-- **Price caps apply**: These vary by location (for example, $700,000 in Brisbane)
+- **First Home Guarantee**: For first home buyers (5% deposit minimum)
+- **Regional First Home Buyer Guarantee**: For buyers in regional areas
+- **Family Home Guarantee**: For single parents and eligible single legal guardians (2% deposit minimum)
+- **Price caps apply**: These vary by location and are updated periodically
 
-This can be a genuine alternative to saving a full 20% deposit, but places are limited each financial year, so it pays to act early.
+Place allocations and property price caps are reviewed by the government each financial year, so check the [Housing Australia website](https://www.housingaustralia.gov.au) for the latest eligibility details. Places are limited, so it pays to act early.
 
 ## How Auri Finance Can Help
 
