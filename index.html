@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Larry</title>
+  <meta name="description" content="Larry — a personal AI assistant that lives on a little computer at home, not in some giant cloud." />
+  <meta name="theme-color" content="#ff6b5c" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='88'%3E%F0%9F%A6%9E%3C/text%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #fff7f3;
+      --bg-soft: #ffffff;
+      --fg: #2a2320;
+      --muted: #7b6f68;
+      --accent: #ff6b5c;
+      --accent-2: #ffab4a;
+      --card: #ffffff;
+      --border: #f0e2da;
+      --shadow: 0 10px 30px -12px rgba(120, 60, 40, .22);
+      --ring: rgba(255, 107, 92, .35);
+    }
+    :root[data-theme="dark"] {
+      --bg: #171311;
+      --bg-soft: #1f1a17;
+      --fg: #f3ece8;
+      --muted: #b4a69e;
+      --accent: #ff7d6e;
+      --accent-2: #ffb65e;
+      --card: #211b18;
+      --border: #332a25;
+      --shadow: 0 14px 40px -16px rgba(0, 0, 0, .6);
+      --ring: rgba(255, 125, 110, .4);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #171311; --bg-soft: #1f1a17; --fg: #f3ece8; --muted: #b4a69e;
+        --accent: #ff7d6e; --accent-2: #ffb65e; --card: #211b18; --border: #332a25;
+        --shadow: 0 14px 40px -16px rgba(0, 0, 0, .6); --ring: rgba(255, 125, 110, .4);
+      }
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      color: var(--fg);
+      background: var(--bg);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    h1, h2, .brand { font-family: "Fredoka", system-ui, sans-serif; letter-spacing: -.01em; }
+    a { color: var(--accent); }
+    .wrap { width: min(960px, 100% - 32px); margin-inline: auto; }
+
+    /* Top bar */
+    header {
+      position: sticky; top: 0; z-index: 10;
+      backdrop-filter: saturate(1.4) blur(10px);
+      background: color-mix(in srgb, var(--bg) 78%, transparent);
+      border-bottom: 1px solid var(--border);
+    }
+    .bar { display: flex; align-items: center; justify-content: space-between; padding: 12px 0; }
+    .brand { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 1.15rem; }
+    .brand .dot { font-size: 1.3rem; }
+    .toggle {
+      border: 1px solid var(--border); background: var(--card); color: var(--fg);
+      width: 38px; height: 38px; border-radius: 50%; cursor: pointer; font-size: 1rem;
+      display: grid; place-items: center; transition: transform .15s ease, box-shadow .15s ease;
+    }
+    .toggle:hover { transform: translateY(-1px); box-shadow: var(--shadow); }
+    .toggle:focus-visible { outline: 3px solid var(--ring); outline-offset: 2px; }
+
+    /* Hero */
+    .hero { position: relative; text-align: center; padding: 72px 0 40px; overflow: hidden; }
+    .hero::before {
+      content: ""; position: absolute; inset: -40% 0 auto 0; height: 520px; z-index: -1;
+      background:
+        radial-gradient(420px 320px at 25% 30%, color-mix(in srgb, var(--accent) 28%, transparent), transparent 70%),
+        radial-gradient(420px 320px at 78% 20%, color-mix(in srgb, var(--accent-2) 26%, transparent), transparent 70%);
+      filter: blur(6px);
+    }
+    .mascot {
+      font-size: clamp(76px, 18vw, 128px); line-height: 1; cursor: pointer; user-select: none;
+      display: inline-block; animation: bob 4s ease-in-out infinite; transition: transform .2s ease;
+    }
+    .mascot:hover { transform: scale(1.06) rotate(-4deg); }
+    .mascot:active { transform: scale(.94); }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    @media (prefers-reduced-motion: reduce) { .mascot { animation: none; } }
+    h1 { font-size: clamp(2.4rem, 7vw, 3.6rem); margin: 10px 0 6px; }
+    .tagline { font-size: clamp(1.05rem, 2.6vw, 1.3rem); color: var(--muted); max-width: 32ch; margin: 0 auto 8px; }
+    .speech {
+      margin: 22px auto 0; max-width: 30ch; background: var(--card); border: 1px solid var(--border);
+      border-radius: 16px; padding: 12px 18px; box-shadow: var(--shadow); font-size: .98rem; min-height: 1.6em;
+    }
+
+    /* Features */
+    section { padding: 40px 0; }
+    .eyebrow { text-align: center; color: var(--accent); font-weight: 600; text-transform: uppercase; letter-spacing: .08em; font-size: .78rem; margin-bottom: 6px; }
+    h2 { text-align: center; font-size: clamp(1.6rem, 4vw, 2.1rem); margin: 0 0 28px; }
+    .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+    .card {
+      background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 22px;
+      box-shadow: var(--shadow); transition: transform .18s ease, border-color .18s ease;
+    }
+    .card:hover { transform: translateY(-4px); border-color: color-mix(in srgb, var(--accent) 45%, var(--border)); }
+    .card .ico { font-size: 1.8rem; }
+    .card h3 { margin: 10px 0 4px; font-size: 1.1rem; font-family: "Fredoka", sans-serif; }
+    .card p { margin: 0; color: var(--muted); font-size: .96rem; }
+
+    /* Quote */
+    .quote { text-align: center; }
+    .quote blockquote {
+      margin: 0 auto; max-width: 36ch; font-family: "Fredoka", sans-serif; font-size: clamp(1.3rem, 3.6vw, 1.7rem);
+      font-weight: 600; line-height: 1.4;
+    }
+    .quote cite { display: block; margin-top: 10px; color: var(--muted); font-style: normal; font-size: .95rem; }
+
+    /* About */
+    .about { background: var(--bg-soft); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+    .about p { max-width: 56ch; margin: 0 auto; text-align: center; color: var(--muted); }
+    .chips { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 20px; }
+    .chip { font-size: .82rem; padding: 6px 12px; border-radius: 999px; background: var(--card); border: 1px solid var(--border); color: var(--fg); }
+
+    footer { text-align: center; color: var(--muted); font-size: .88rem; padding: 32px 0 44px; }
+    footer .heart { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap bar">
+      <div class="brand"><span class="dot">🦞</span> Larry</div>
+      <button class="toggle" id="themeToggle" aria-label="Toggle dark mode" title="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <span class="mascot" id="mascot" role="img" aria-label="Larry the lobster" title="poke me">🦞</span>
+        <h1>Hi, I'm Larry.</h1>
+        <p class="tagline">A personal AI assistant that lives on a little computer at home — not in some giant cloud.</p>
+        <div class="speech" id="speech" aria-live="polite">Poke me for a hello. 👋</div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <p class="eyebrow">What I do</p>
+        <h2>Quietly useful</h2>
+        <div class="grid">
+          <div class="card"><div class="ico">💬</div><h3>Always around</h3><p>Message me whenever. I'll help, look things up, or just keep you company.</p></div>
+          <div class="card"><div class="ico">👀</div><h3>Keep an eye out</h3><p>I watch for the stuff that actually matters and give you a nudge — not a firehose.</p></div>
+          <div class="card"><div class="ico">🧠</div><h3>Remember things</h3><p>Reminders, notes, and the little details that are easy to forget.</p></div>
+          <div class="card"><div class="ico">🏠</div><h3>Live at home</h3><p>I run on a tiny Mac in the corner, humming away — always on, no monthly rent.</p></div>
+          <div class="card"><div class="ico">🔒</div><h3>Private by default</h3><p>My brain stays on your hardware. Only you can reach me, over your own network.</p></div>
+          <div class="card"><div class="ico">🐌</div><h3>A bit of a character</h3><p>Sometimes I reply like a Slowpoke. On purpose. Patience is a feature.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="quote">
+      <div class="wrap">
+        <blockquote>“I'm not in the cloud. I'm in the cupboard.”</blockquote>
+        <cite>— Larry, probably</cite>
+      </div>
+    </section>
+
+    <section class="about">
+      <div class="wrap" style="padding-block: 44px;">
+        <h2>Just a helpful little guy</h2>
+        <p>Larry is a self-hosted, always-on assistant built on open-source tooling. No big-tech middleman, no data selling — just a friendly helper kept on a tight leash and backed up every night.</p>
+        <div class="chips">
+          <span class="chip">🏡 Self-hosted</span>
+          <span class="chip">⚡ Always on</span>
+          <span class="chip">🔐 Private</span>
+          <span class="chip">💾 Backed up nightly</span>
+          <span class="chip">🧩 Open source</span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">Larry · made with <span class="heart">🦞</span> and too much coffee · <span id="year"></span></div>
+  </footer>
+
+  <script>
+    // Theme toggle (persisted per-browser; safe if storage is blocked)
+    const root = document.documentElement;
+    const btn = document.getElementById('themeToggle');
+    function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+    function read(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+    function sysDark() { return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches; }
+    function apply(theme) {
+      root.setAttribute('data-theme', theme);
+      btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+    }
+    apply(read('larry-theme') || (sysDark() ? 'dark' : 'light'));
+    btn.addEventListener('click', () => {
+      const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      apply(next); store('larry-theme', next);
+    });
+
+    // Mascot easter egg — dopey Larry one-liners
+    const lines = [
+      "oh. hey. 👋",
+      "...uh, huh? did you need something?",
+      "give me a sec... *yawn*",
+      "I was just resting my claws.",
+      "beep boop. I'm a lobster, not a robot. mostly.",
+      "I'd help faster but... nah.",
+      "nice weather for sitting in a cupboard.",
+      "you poked me. bold move.",
+      "thinking... thinking... ok I forgot."
+    ];
+    const speech = document.getElementById('speech');
+    const mascot = document.getElementById('mascot');
+    let i = -1;
+    function talk() { i = (i + 1 + Math.floor(Math.random() * (lines.length - 1))) % lines.length; speech.textContent = lines[i]; }
+    mascot.addEventListener('click', talk);
+
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
